@@ -1,0 +1,2657 @@
+[
+    {
+        "OBJECT": 39999,
+        "DESCRIPTION": "Year End Close/Balance FWD",
+        "ADDITIONAL INFORMATION": "For Financial Services use only"
+    },
+    {
+        "OBJECT": "41XXX",
+        "DESCRIPTION": "FEDERAL GOVERNMENT REVENUE",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with Federal Departments"
+    },
+    {
+        "OBJECT": 41100,
+        "DESCRIPTION": "Federal-SSHRCC",
+        "ADDITIONAL INFORMATION": "Social Sciences & Humanities Research Council"
+    },
+    {
+        "OBJECT": 41200,
+        "DESCRIPTION": "Federal-NSERC",
+        "ADDITIONAL INFORMATION": "Natural Sciences & Engineering Research Council"
+    },
+    {
+        "OBJECT": 41400,
+        "DESCRIPTION": "Federal-CIHR",
+        "ADDITIONAL INFORMATION": "Canadian Institutes of Health Research"
+    },
+    {
+        "OBJECT": 41500,
+        "DESCRIPTION": "Federal-Other <$100k",
+        "ADDITIONAL INFORMATION": "If annual amount of revenue from any Federal department exceeds $100k, the transactions need to be moved to a specific object code related to the Federal department."
+    },
+    {
+        "OBJECT": 41502,
+        "DESCRIPTION": "Federal-Natural Resources",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41503,
+        "DESCRIPTION": "Federal-Human Resources(HRSDC)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41504,
+        "DESCRIPTION": "Federal-Fisheries & Oceans",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41505,
+        "DESCRIPTION": "Federal-ACOA",
+        "ADDITIONAL INFORMATION": "Atlantic Canada Opportunities Agency"
+    },
+    {
+        "OBJECT": 41506,
+        "DESCRIPTION": "Federal-National Defence",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41507,
+        "DESCRIPTION": "Federal-Agriculture & Agri-Food",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41508,
+        "DESCRIPTION": "Federal-Environment & Climate",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41509,
+        "DESCRIPTION": "Federal-Nat'l Research Council",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41512,
+        "DESCRIPTION": "Federal-Transport Canada",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41514,
+        "DESCRIPTION": "Federal-Culture History &Sport",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41515,
+        "DESCRIPTION": "Federal-Parks Canada",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41517,
+        "DESCRIPTION": "Federal-Health Canada",
+        "ADDITIONAL INFORMATION": "Income from Health Canada not reported under 41400 CIHR"
+    },
+    {
+        "OBJECT": 41518,
+        "DESCRIPTION": "Federal-Canadian Space Agency",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41534,
+        "DESCRIPTION": "Federal-Canadian Heritage",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41535,
+        "DESCRIPTION": "Federal-Canada Research Chairs",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41538,
+        "DESCRIPTION": "Federal-Can Found Innovation",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41544,
+        "DESCRIPTION": "Federal-Employ & Social Development",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41545,
+        "DESCRIPTION": "Federal-ISED",
+        "ADDITIONAL INFORMATION": "Innovation, Science & Economic Development Canada"
+    },
+    {
+        "OBJECT": "416XX",
+        "DESCRIPTION": "PROVINCIAL REVENUE - NEW BRUNSWICK",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with New Brunswick provincial departments and agencies including CFI matching grants."
+    },
+    {
+        "OBJECT": 41600,
+        "DESCRIPTION": "NB-Other Grants/Contracts <$100k",
+        "ADDITIONAL INFORMATION": "If annual amount of revenue from any Provincial department exceeds $100k, the transactions need to be moved to a specific object code related to the Provincial department."
+    },
+    {
+        "OBJECT": 41604,
+        "DESCRIPTION": "NB-Environment & Local Gov't",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41605,
+        "DESCRIPTION": "NB-MPHEC Unrestricted Operating Grant",
+        "ADDITIONAL INFORMATION": "Base operating grant received from Province of New Brunswick."
+    },
+    {
+        "OBJECT": 41606,
+        "DESCRIPTION": "NB-MPHEC SGS/Recruitment grant",
+        "ADDITIONAL INFORMATION": "School Grad Studies/Recruitment Special Grant funding"
+    },
+    {
+        "OBJECT": 41607,
+        "DESCRIPTION": "NB-PETL Performance Based funding",
+        "ADDITIONAL INFORMATION": "Operating grant based on enrolment targets."
+    },
+    {
+        "OBJECT": 41610,
+        "DESCRIPTION": "NB-MPHEC Nursing",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41615,
+        "DESCRIPTION": "NB-MPHEC Non-Space & A&R",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41620,
+        "DESCRIPTION": "NB-Regional Development Corp'n",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41626,
+        "DESCRIPTION": "NB-Innovation Fund",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41630,
+        "DESCRIPTION": "NB-Education",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41635,
+        "DESCRIPTION": "NB-Intergovernmental Affairs",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41640,
+        "DESCRIPTION": "NB-Post Sec. Educ Train & Labr",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41645,
+        "DESCRIPTION": "NB-Natural Res. & Energy Development",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41650,
+        "DESCRIPTION": "NB-Social Development",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41655,
+        "DESCRIPTION": "NB-Opportunities NB",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41660,
+        "DESCRIPTION": "NB-Transportation&Infrastructure",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41665,
+        "DESCRIPTION": "NB-Health",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41670,
+        "DESCRIPTION": "NB-Agric/Aquaculture/Fisheries",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41680,
+        "DESCRIPTION": "NB-MPHEC Other Restricted",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41695,
+        "DESCRIPTION": "NB-Other Restricted Research",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41699,
+        "DESCRIPTION": "Prov'l-MPHEC NS&AR clearing",
+        "ADDITIONAL INFORMATION": "For Capital Budgeting office use only"
+    },
+    {
+        "OBJECT": "417XX",
+        "DESCRIPTION": "MUNICIPAL REVENUE",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with NB Municipal departments"
+    },
+    {
+        "OBJECT": 41700,
+        "DESCRIPTION": "Municipal Grants/Contracts",
+        "ADDITIONAL INFORMATION": "E.g. Grants for the indoor pool, transit, communications, etc."
+    },
+    {
+        "OBJECT": "418XX",
+        "DESCRIPTION": "OTHER PROVINCIAL REVENUE",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with, provinces other than New Brunswick"
+    },
+    {
+        "OBJECT": 41800,
+        "DESCRIPTION": "Other Provinces/Territories",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41801,
+        "DESCRIPTION": "Ontario",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41802,
+        "DESCRIPTION": "Newfoundland",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41803,
+        "DESCRIPTION": "Nova Scotia",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41804,
+        "DESCRIPTION": "Prince Edward Island",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41806,
+        "DESCRIPTION": "Alberta",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 41811,
+        "DESCRIPTION": "NW Territories",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": "419XX",
+        "DESCRIPTION": "FOREIGN GOVERNMENT REVENUE",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with US and other foreign governments."
+    },
+    {
+        "OBJECT": 41910,
+        "DESCRIPTION": "Foreign Gov't Grants/Contracts",
+        "ADDITIONAL INFORMATION": "E.g. grants from National Endowment for Humanities, National Institutes of Health, and the National Science Foundation"
+    },
+    {
+        "OBJECT": "42XXX",
+        "DESCRIPTION": "TUITION AND RELATED FEE REVENUE",
+        "ADDITIONAL INFORMATION": "Includes credit and non credit course tuition and other student related fees."
+    },
+    {
+        "OBJECT": 42100,
+        "DESCRIPTION": "Fees-UG Domestic FT",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42105,
+        "DESCRIPTION": "Fees-UG Domestic PT",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42110,
+        "DESCRIPTION": "Fees-GR Domestic",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42120,
+        "DESCRIPTION": "UG FT Credit SU",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42125,
+        "DESCRIPTION": "UG PT Credit May-Aug",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42134,
+        "DESCRIPTION": "Fees-GR International",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42135,
+        "DESCRIPTION": "Fees-UG International Diff'l",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42136,
+        "DESCRIPTION": "Fees-UG International PT",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42138,
+        "DESCRIPTION": "Fees-Technology Fee",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42139,
+        "DESCRIPTION": "Fees-Facilities Improvement",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42145,
+        "DESCRIPTION": "Fees-Co-Op/PEP Programs",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42150,
+        "DESCRIPTION": "Fees-Wellness Fee",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42155,
+        "DESCRIPTION": "Fees-Facilities Access",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42160,
+        "DESCRIPTION": "Fees-Program Fees",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42200,
+        "DESCRIPTION": "Fees-Non Credit",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42205,
+        "DESCRIPTION": "Fees-Non-credit Course Discount",
+        "ADDITIONAL INFORMATION": "For College of Extended Learning use"
+    },
+    {
+        "OBJECT": 42400,
+        "DESCRIPTION": "Fees-Miscellaneous Student",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42405,
+        "DESCRIPTION": "Fees-Application UG",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42406,
+        "DESCRIPTION": "Fees-Application GR",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42407,
+        "DESCRIPTION": "Fees-Waiver Application Fees",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42410,
+        "DESCRIPTION": "Fees-Transcripts",
+        "ADDITIONAL INFORMATION": "For Registrars Office use"
+    },
+    {
+        "OBJECT": 42420,
+        "DESCRIPTION": "Fees-Late Payment Fee",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42430,
+        "DESCRIPTION": "Fees-Late Payment Fee",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": 42435,
+        "DESCRIPTION": "Fees-Re Registration",
+        "ADDITIONAL INFORMATION": "For Financial Services use"
+    },
+    {
+        "OBJECT": "43XXX",
+        "DESCRIPTION": "NON GOVERNMENT GRANTS/DONATIONS",
+        "ADDITIONAL INFORMATION": "Grants from, and contracts with corporations, business enterprises, not for profits, foundations. Contributions that fall outside of donations receipted to 45200 also included here."
+    },
+    {
+        "OBJECT": 43210,
+        "DESCRIPTION": "Individuals-Cdn",
+        "ADDITIONAL INFORMATION": "Funds from Canadian Individuals E.g. Contributions"
+    },
+    {
+        "OBJECT": 43220,
+        "DESCRIPTION": "Individuals-USA",
+        "ADDITIONAL INFORMATION": "Funds from US Individuals E.g. Contributions"
+    },
+    {
+        "OBJECT": 43240,
+        "DESCRIPTION": "Development-Gifts",
+        "ADDITIONAL INFORMATION": "Funds from contributions - Development & Donor use only - receipt provided"
+    },
+    {
+        "OBJECT": 43310,
+        "DESCRIPTION": "Corporate-Canadian",
+        "ADDITIONAL INFORMATION": "Funds from Canadian Corporations outside of NB"
+    },
+    {
+        "OBJECT": 43315,
+        "DESCRIPTION": "Corporate-NB",
+        "ADDITIONAL INFORMATION": "Funds from New Brunswick Corporations"
+    },
+    {
+        "OBJECT": 43320,
+        "DESCRIPTION": "Corporate-USA",
+        "ADDITIONAL INFORMATION": "Funds from US Corporations"
+    },
+    {
+        "OBJECT": 43330,
+        "DESCRIPTION": "Corporate-Other&Foreign",
+        "ADDITIONAL INFORMATION": "Funds from Foreign or other Corporations"
+    },
+    {
+        "OBJECT": 43410,
+        "DESCRIPTION": "Foundations-Canadian",
+        "ADDITIONAL INFORMATION": "Funds from Canadian Foundations outside of NB"
+    },
+    {
+        "OBJECT": 43415,
+        "DESCRIPTION": "Foundations-NB",
+        "ADDITIONAL INFORMATION": "Funds from New Brunswick Foundations"
+    },
+    {
+        "OBJECT": 43420,
+        "DESCRIPTION": "Foundations-USA",
+        "ADDITIONAL INFORMATION": "Funds from US Foundations"
+    },
+    {
+        "OBJECT": 43510,
+        "DESCRIPTION": "Non Profit-Canadian",
+        "ADDITIONAL INFORMATION": "Funds from Canadian Not for Profits outside of NB"
+    },
+    {
+        "OBJECT": 43511,
+        "DESCRIPTION": "Non Profit-Networks Centres Excellence",
+        "ADDITIONAL INFORMATION": "Funds from Networks of Centres of Excellence (NCE)"
+    },
+    {
+        "OBJECT": 43512,
+        "DESCRIPTION": "Non Profit-Tri-Council Subgrant",
+        "ADDITIONAL INFORMATION": "Funds from Tri-Council subgrants"
+    },
+    {
+        "OBJECT": 43515,
+        "DESCRIPTION": "Non Profit-NB",
+        "ADDITIONAL INFORMATION": "Funds from New Brunswick Not For Profits"
+    },
+    {
+        "OBJECT": 43520,
+        "DESCRIPTION": "Non Profit-USA",
+        "ADDITIONAL INFORMATION": "Funds from US Not For Profits"
+    },
+    {
+        "OBJECT": 43530,
+        "DESCRIPTION": "Non Profit-Foreign Other",
+        "ADDITIONAL INFORMATION": "Funds from Foreign Not For Profits"
+    },
+    {
+        "OBJECT": "44XXX",
+        "DESCRIPTION": "SALE OF SERVICES & PRODUCTS",
+        "ADDITIONAL INFORMATION": "Ancillary related revenues; residence, youth camps, IBME, Conference Services"
+    },
+    {
+        "OBJECT": 44100,
+        "DESCRIPTION": "Bookstore revenue",
+        "ADDITIONAL INFORMATION": "E.g. Saint John Bookstore special order revenue, etc."
+    },
+    {
+        "OBJECT": 44200,
+        "DESCRIPTION": "Residence room & board",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44202,
+        "DESCRIPTION": "Residence miscellaneous adjust",
+        "ADDITIONAL INFORMATION": "For Residence Use. E.g. room change fees"
+    },
+    {
+        "OBJECT": 44203,
+        "DESCRIPTION": "Residence room-early/late",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44205,
+        "DESCRIPTION": "Residence room damage",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44206,
+        "DESCRIPTION": "Residence House Dues",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44207,
+        "DESCRIPTION": "Residence House Fines",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44210,
+        "DESCRIPTION": "Cancellation Fees",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44211,
+        "DESCRIPTION": "Apartment Rental",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44212,
+        "DESCRIPTION": "Food Service/Meal plans",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44213,
+        "DESCRIPTION": "Coin Laundry Revenue",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44214,
+        "DESCRIPTION": "Food Service/Catering Revenue",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44215,
+        "DESCRIPTION": "Summer Residence non taxable >30 days",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44216,
+        "DESCRIPTION": "Tourist Hotel Revenue",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44217,
+        "DESCRIPTION": "Summer Residence taxable <30 days",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44218,
+        "DESCRIPTION": "Youth Camp/Workshop Reg'n fees",
+        "ADDITIONAL INFORMATION": "Revenue for departmental youth camps & workshop fees. Art, sport, etc."
+    },
+    {
+        "OBJECT": 44219,
+        "DESCRIPTION": "Group Accommodation Revenue",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44220,
+        "DESCRIPTION": "Magee House Rent",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44221,
+        "DESCRIPTION": "Refundable Deposits-Room Keys",
+        "ADDITIONAL INFORMATION": "For Residence Use"
+    },
+    {
+        "OBJECT": 44240,
+        "DESCRIPTION": "Conference Management Revenue",
+        "ADDITIONAL INFORMATION": "Conference Services revenue. If collected by Conference Services on behalf of other departments, will be transferred using this object."
+    },
+    {
+        "OBJECT": 44300,
+        "DESCRIPTION": "IBME Clinic Sales: Markup",
+        "ADDITIONAL INFORMATION": "For Biomedical use for recording revenue associated with markup on sales"
+    },
+    {
+        "OBJECT": 44301,
+        "DESCRIPTION": "IBME Clinic Sales: Inventory",
+        "ADDITIONAL INFORMATION": "For Biomedical use for recording revenue associated with inventory"
+    },
+    {
+        "OBJECT": 44302,
+        "DESCRIPTION": "IBME Clinic Sales: Labour",
+        "ADDITIONAL INFORMATION": "For Biomedical use for recording revenue associated with labour"
+    },
+    {
+        "OBJECT": "45XXX",
+        "DESCRIPTION": "DONATION/INVESTMENT INCOME",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 45090,
+        "DESCRIPTION": "Income to/from Capital",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45111,
+        "DESCRIPTION": "Investment Income-Interest",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45112,
+        "DESCRIPTION": "Investment Income-Short Term",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45113,
+        "DESCRIPTION": "Investment Income-Dividends",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45115,
+        "DESCRIPTION": "Loan Interest",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45118,
+        "DESCRIPTION": "Interest - Internal loans",
+        "ADDITIONAL INFORMATION": "For interest payments on internal loans. These transactions are eliminated for financial statement purposes."
+    },
+    {
+        "OBJECT": 45190,
+        "DESCRIPTION": "Investment Income-Allocated",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45195,
+        "DESCRIPTION": "Timing Reserve",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45200,
+        "DESCRIPTION": "Donations/Capital",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45202,
+        "DESCRIPTION": "Inflation Reserve",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45203,
+        "DESCRIPTION": "Market Value Adjustment",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45210,
+        "DESCRIPTION": "Capital Gains-Equities",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45211,
+        "DESCRIPTION": "Capital Gains-Bonds",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45290,
+        "DESCRIPTION": "Endowment Adj for Reclass",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 45300,
+        "DESCRIPTION": "Unrealized Market Value Change",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": "46XXX",
+        "DESCRIPTION": "MISCELLANEOUS INCOME",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 46001,
+        "DESCRIPTION": "Equipment/Merchandise/Subcription sales",
+        "ADDITIONAL INFORMATION": "Revenue from the sale of merchandise (E.g. REDS) or equipment (new or used), books, magazine subscription sales, course packs, etc."
+    },
+    {
+        "OBJECT": 46003,
+        "DESCRIPTION": "Facility Rental External",
+        "ADDITIONAL INFORMATION": "E.g. Gym/Lab/Ice/Turf/Facilities/Rooms rentals (e.g. SUB, Currie Center, BMO, LB Gym, WSTC, WU, AUC). Includes classroom, office and other space rental."
+    },
+    {
+        "OBJECT": 46004,
+        "DESCRIPTION": "Food Service Contract Rebate",
+        "ADDITIONAL INFORMATION": "E.g. Sodexo, Pepsi rebate"
+    },
+    {
+        "OBJECT": 46005,
+        "DESCRIPTION": "Property Leases",
+        "ADDITIONAL INFORMATION": "Revenue from lease payments for property/space (E.g. DAL Med, Sub Mgmt., EUNB, Bank & Bookstore, etc.)"
+    },
+    {
+        "OBJECT": 46006,
+        "DESCRIPTION": "Food Service External",
+        "ADDITIONAL INFORMATION": "E.g. For use by Wu Center, Student Services, etc."
+    },
+    {
+        "OBJECT": 46008,
+        "DESCRIPTION": "Gate Receipts/Admission Fees",
+        "ADDITIONAL INFORMATION": "Admission revenue from sporting & other events, day passes, etc."
+    },
+    {
+        "OBJECT": 46010,
+        "DESCRIPTION": "Sundry - Miscellaneous Revenue",
+        "ADDITIONAL INFORMATION": "To be used when no other logical revenue code exists. UREC should use 46084 Membership revenue, 46085 Fee for service revenue, 46008 Gate/Admission fees."
+    },
+    {
+        "OBJECT": 46011,
+        "DESCRIPTION": "Seminar & Workshop Revenue",
+        "ADDITIONAL INFORMATION": "Registration fees collected from individuals or exhibitors for conferences, seminars, workshops, etc. For youth camp registration please use 44218 youth camp."
+    },
+    {
+        "OBJECT": 46012,
+        "DESCRIPTION": "Bookstore(UNBF) Rent",
+        "ADDITIONAL INFORMATION": "Specific to Bank/Bookstore Rent"
+    },
+    {
+        "OBJECT": 46013,
+        "DESCRIPTION": "Parking Pay & Display Machine",
+        "ADDITIONAL INFORMATION": "Parking Pay & Display Machine on the Saint John Campus"
+    },
+    {
+        "OBJECT": 46015,
+        "DESCRIPTION": "Parking Fees",
+        "ADDITIONAL INFORMATION": "Parking fee revenue"
+    },
+    {
+        "OBJECT": 46016,
+        "DESCRIPTION": "Parking Fines",
+        "ADDITIONAL INFORMATION": "Parking fine revenue"
+    },
+    {
+        "OBJECT": 46017,
+        "DESCRIPTION": "Library Fines",
+        "ADDITIONAL INFORMATION": "Library fines"
+    },
+    {
+        "OBJECT": 46018,
+        "DESCRIPTION": "Fundraising/Donation/Sponsorship",
+        "ADDITIONAL INFORMATION": "Revenue from fundraising events, corporate or individual sponsorships. Sponsorship is a donation made to the University where in return they receive advertising or promotion of its brand, products or services or something in exchange for their donation therefore are not eligible for a charitable receipt."
+    },
+    {
+        "OBJECT": 46024,
+        "DESCRIPTION": "License/Royalty Revenue",
+        "ADDITIONAL INFORMATION": "Revenue from the use of UNB owned properties. e.g. Patents, copyrights, trademarks. licensing fees."
+    },
+    {
+        "OBJECT": 46026,
+        "DESCRIPTION": "Vending Machines",
+        "ADDITIONAL INFORMATION": "Revenues from vending machines"
+    },
+    {
+        "OBJECT": 46032,
+        "DESCRIPTION": "Internal revenue clearing tsfs",
+        "ADDITIONAL INFORMATION": "Office of Research Services use. To transfer sub-grants from one project to another. Same object is to be used on both sides of the entry."
+    },
+    {
+        "OBJECT": 46033,
+        "DESCRIPTION": "Co-loc shared services SJ/DAL",
+        "ADDITIONAL INFORMATION": "Invoiced amounts received from Dalhousie per shared services agreement."
+    },
+    {
+        "OBJECT": 46035,
+        "DESCRIPTION": "Principal - Internal Loan",
+        "ADDITIONAL INFORMATION": "For repayment of internal loans and Energy Management project paybacks. These transactions are eliminated for financial statement purposes. Used mostly in the Capital fund."
+    },
+    {
+        "OBJECT": 46075,
+        "DESCRIPTION": "Card Program - Revenue",
+        "ADDITIONAL INFORMATION": "For UCard Revenue"
+    },
+    {
+        "OBJECT": 46076,
+        "DESCRIPTION": "Card Program - Replacement Card",
+        "ADDITIONAL INFORMATION": "For UCard Revenue"
+    },
+    {
+        "OBJECT": 46084,
+        "DESCRIPTION": "Membership/registration Revenue",
+        "ADDITIONAL INFORMATION": "Membership and or registration type fees collected. E.g. campus recreation programs."
+    },
+    {
+        "OBJECT": 46085,
+        "DESCRIPTION": "Fee for Service revenue",
+        "ADDITIONAL INFORMATION": "Revenue from the sale of services related to UNB labs, projects, etc. For Urec e.g. locker/towel service,etc."
+    },
+    {
+        "OBJECT": 46090,
+        "DESCRIPTION": "Admin Fee/Markup",
+        "ADDITIONAL INFORMATION": "Revenue from administration fees or markup charged for services performed or products supplied."
+    },
+    {
+        "OBJECT": 46099,
+        "DESCRIPTION": "Future Year Budget Approval",
+        "ADDITIONAL INFORMATION": "For budget entries only. ORS use."
+    },
+    {
+        "OBJECT": 46100,
+        "DESCRIPTION": "Rebate/Discount Earned",
+        "ADDITIONAL INFORMATION": "Rebates and discounts earned from supplier contracts."
+    },
+    {
+        "OBJECT": "47XXX",
+        "DESCRIPTION": "TRUST FUND TRANSFERS",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 47500,
+        "DESCRIPTION": "Trust Tsfs-Restricted",
+        "ADDITIONAL INFORMATION": "For donation and investment income transfers from restricted trust funds 31-34 to restricted research funds 40-69 and restricted capital funds 21"
+    },
+    {
+        "OBJECT": "49XXX",
+        "DESCRIPTION": "COST RECOVERIES",
+        "ADDITIONAL INFORMATION": "If the University is ultimately responsible for 100% of the cost but managed to offset the costs through partial or total recovery, then an external cost recovery object is appropriate. A contribution agreement may exist."
+    },
+    {
+        "OBJECT": 49805,
+        "DESCRIPTION": "ECR-Steam CHP/Utlities",
+        "ADDITIONAL INFORMATION": "Used mostly by Facilities Management to record revenue associated with steam and utility costs from external clients like STU, Chalmers, NBCC, etc."
+    },
+    {
+        "OBJECT": 49810,
+        "DESCRIPTION": "ECR-Security",
+        "ADDITIONAL INFORMATION": "For Security and campus patrol for services paid for from external clients."
+    },
+    {
+        "OBJECT": 49815,
+        "DESCRIPTION": "ECR-Media Services",
+        "ADDITIONAL INFORMATION": "For CETL media production for services provided to external clients."
+    },
+    {
+        "OBJECT": 49820,
+        "DESCRIPTION": "ECR-Computing Services",
+        "ADDITIONAL INFORMATION": "For ITS cost recoveries for contribution agreements such as ECN, ORAN agreements, etc."
+    },
+    {
+        "OBJECT": 49830,
+        "DESCRIPTION": "ECR-Print Services",
+        "ADDITIONAL INFORMATION": "For UNB Card Office and Print Services for services provided to external clients like STU."
+    },
+    {
+        "OBJECT": "511XX",
+        "DESCRIPTION": "ACADEMIC SALARIES",
+        "ADDITIONAL INFORMATION": "Payments to full and part time staff who hold an academic rank and are engaged in instruction and research activities. E.g. Deans, professors, lecturers. Leaves such as administrative, academic or sabbatical also included."
+    },
+    {
+        "OBJECT": 51010,
+        "DESCRIPTION": "Academic Salary Budget fwd.",
+        "ADDITIONAL INFORMATION": "Budget carry forwards only: no actual revenue/expense may be charged"
+    },
+    {
+        "OBJECT": 51100,
+        "DESCRIPTION": "Academic-Full Time",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51105,
+        "DESCRIPTION": "Academic-Full Time Term",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51107,
+        "DESCRIPTION": "Academic-Sal Recovery Pos",
+        "ADDITIONAL INFORMATION": "For internal cost recovery of salary - both sides of entry must contain same object and net to $0. Used in situations where position is recovered from restricted funding."
+    },
+    {
+        "OBJECT": 51108,
+        "DESCRIPTION": "Academic-Sal Recovery Pool",
+        "ADDITIONAL INFORMATION": "For internal cost recovery of salary - both sides of entry must contain same object and net to $0. Used in situations where position is recovered from restricted funding."
+    },
+    {
+        "OBJECT": 51110,
+        "DESCRIPTION": "Academic-Part Time",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51111,
+        "DESCRIPTION": "Academic Part Time Clinical",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51120,
+        "DESCRIPTION": "Academic-Sabbatical Leave",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51125,
+        "DESCRIPTION": "Academic-Administrative Leave",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51150,
+        "DESCRIPTION": "Academic-Seconded/CAE IC",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51155,
+        "DESCRIPTION": "Academic-PDA",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51160,
+        "DESCRIPTION": "Academic-Maternity/Adoption leave/Care",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51190,
+        "DESCRIPTION": "Academic-Awards/Honorariums",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": "512XX",
+        "DESCRIPTION": "ACADEMIC OTHER INSTRUCTION & RESEARCH (OI&R)",
+        "ADDITIONAL INFORMATION": "Payments to full and part time staff and non-staff members without academic rank but who are engaged in instruction and research activities. E.g. instructors, tutors, markers, lab, teaching, research, clinical assistants. Post doctoral fellows and others. Payments to graduate and undergraduate students undertaking instruction and research activities also included."
+    },
+    {
+        "OBJECT": 51220,
+        "DESCRIPTION": "OI&R-Principal Invest Fees",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51221,
+        "DESCRIPTION": "Academic-P.I. Research Trust Fund",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51222,
+        "DESCRIPTION": "Royalty Payments",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51225,
+        "DESCRIPTION": "OI&R-Research Associate",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51230,
+        "DESCRIPTION": "OI&R-Graduate Teaching Assistant",
+        "ADDITIONAL INFORMATION": "Do not use for Tri-Agency accounts (funds 40, 42, 44, or CRC grants)"
+    },
+    {
+        "OBJECT": 51235,
+        "DESCRIPTION": "OI&R-UGTA/Students",
+        "ADDITIONAL INFORMATION": "Do not use for Tri-Agency accounts (funds 40, 42, 44, or CRC grants)"
+    },
+    {
+        "OBJECT": 51240,
+        "DESCRIPTION": "OI&R-Bachelor Student-Cdn(F/T)",
+        "ADDITIONAL INFORMATION": "Undergrad Canadian"
+    },
+    {
+        "OBJECT": 51241,
+        "DESCRIPTION": "NSERC USRA student payments",
+        "ADDITIONAL INFORMATION": "NSERC USRA student program only"
+    },
+    {
+        "OBJECT": 51245,
+        "DESCRIPTION": "OI&R-Bachelor Student-For(F/T)",
+        "ADDITIONAL INFORMATION": "Undergrad Foreign"
+    },
+    {
+        "OBJECT": 51250,
+        "DESCRIPTION": "OI&R-Bachelor Student-Cdn(P/T)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51255,
+        "DESCRIPTION": "OI&R-Bachelor Student-For(P/T)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51260,
+        "DESCRIPTION": "OI&R-GAA-Masters Student-Cdn",
+        "ADDITIONAL INFORMATION": "Scholarship type award"
+    },
+    {
+        "OBJECT": 51261,
+        "DESCRIPTION": "OI&R-GAA-Doctorate Student-Cdn",
+        "ADDITIONAL INFORMATION": "Scholarship type award"
+    },
+    {
+        "OBJECT": 51262,
+        "DESCRIPTION": "OI&R-T4 Doctorate student-Cdn",
+        "ADDITIONAL INFORMATION": "Employment Income"
+    },
+    {
+        "OBJECT": 51263,
+        "DESCRIPTION": "OI&R-T4 Masters Student(Cdn)",
+        "ADDITIONAL INFORMATION": "Employment Income"
+    },
+    {
+        "OBJECT": 51264,
+        "DESCRIPTION": "OI&R-T4 Masters Student(For)",
+        "ADDITIONAL INFORMATION": "Employment Income"
+    },
+    {
+        "OBJECT": 51265,
+        "DESCRIPTION": "OI&R-GAA-Masters Student-Intl",
+        "ADDITIONAL INFORMATION": "Scholarship type award"
+    },
+    {
+        "OBJECT": 51266,
+        "DESCRIPTION": "OI&R-GAA-Doctorate Student-Int",
+        "ADDITIONAL INFORMATION": "Scholarship type award"
+    },
+    {
+        "OBJECT": 51267,
+        "DESCRIPTION": "OI&R-T4 Doctorate Student-Intl",
+        "ADDITIONAL INFORMATION": "Employment Income"
+    },
+    {
+        "OBJECT": 51270,
+        "DESCRIPTION": "OI&R-Postdoc Fellow-Cdn",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51271,
+        "DESCRIPTION": "OI&R-Postdoc Union-CDN",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51272,
+        "DESCRIPTION": "OI&R-Postdoc Non-Union-CDN",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51273,
+        "DESCRIPTION": "OI&R-Postdoc Mat/Pat Leave",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51274,
+        "DESCRIPTION": "OI&R-Postdoc Fellow - Overtime",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51275,
+        "DESCRIPTION": "OI&R-Postdoc Fellow-Int'l",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51276,
+        "DESCRIPTION": "OI&R-Postdoc Union-Int'l",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51277,
+        "DESCRIPTION": "OI&R-Postdoc Non-Union-Int'l",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51280,
+        "DESCRIPTION": "OI&R-Other(miscellaneous)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51285,
+        "DESCRIPTION": "Employer Compliance Fee (Immigration CIC)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51290,
+        "DESCRIPTION": "OI&R-Awards/Honorariums",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 51999,
+        "DESCRIPTION": "Academic Salary Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "52XXX",
+        "DESCRIPTION": "OTHER SALARIES & WAGES",
+        "ADDITIONAL INFORMATION": "Payments to those not reported in 51xxx. Payments to full time and part time non instructional support staff, technicians, teaching and research lab technicians, clerical, secretarial, professional and managerial, janitorial, trades and maintenance. Also includes individuals who hold an academic rank, but are engaged in activities other than instruction and research such as President, Vice-Presidents, certain librarians and computing center personnel."
+    },
+    {
+        "OBJECT": 52010,
+        "DESCRIPTION": "Non Academic Salary Budget fwd.",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": 52100,
+        "DESCRIPTION": "Non Academic-Full Time",
+        "ADDITIONAL INFORMATION": "Note: for personnel supported by short term external funding, object 52101 or 52110 may be appropriate."
+    },
+    {
+        "OBJECT": 52101,
+        "DESCRIPTION": "Non Academic-Term (>1 year)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52105,
+        "DESCRIPTION": "Non Academic-Continuing PT",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52107,
+        "DESCRIPTION": "Non Academic-Sal Recovery Pos",
+        "ADDITIONAL INFORMATION": "For internal cost recovery of salary - both sides of entry must contain same object and net to $0. Used in situations where position is recovered from restricted funding."
+    },
+    {
+        "OBJECT": 52108,
+        "DESCRIPTION": "Non Academic-Sal Recovery Pool",
+        "ADDITIONAL INFORMATION": "For internal cost recovery of salary - both sides of entry must contain same object and net to $0. Used in situations where position is recovered from restricted funding."
+    },
+    {
+        "OBJECT": 52110,
+        "DESCRIPTION": "Non Academic-Term (< year)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52115,
+        "DESCRIPTION": "Senior Executive Admin Leaves",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52121,
+        "DESCRIPTION": "Non Academic-Term PT Benefits",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52125,
+        "DESCRIPTION": "Non Academic-FT Term renewable",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52130,
+        "DESCRIPTION": "Non Academic-Students",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52135,
+        "DESCRIPTION": "Non Academic-Work Study",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52140,
+        "DESCRIPTION": "Non Academic-Overtime",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52150,
+        "DESCRIPTION": "Non Acad-Maternity/Adopt/Care",
+        "ADDITIONAL INFORMATION": "For Maternity/Adoption/Parental or Compassionate Care Leave"
+    },
+    {
+        "OBJECT": 52165,
+        "DESCRIPTION": "Seconded to/from UNB",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52190,
+        "DESCRIPTION": "Non Academic-Awards/Honorariums",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52198,
+        "DESCRIPTION": "Clear salary to capital asset",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 52999,
+        "DESCRIPTION": "Non Academic Salary Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "531XX",
+        "DESCRIPTION": "FRINGE BENEFITS",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 53170,
+        "DESCRIPTION": "Benefits-Charge out recovery",
+        "ADDITIONAL INFORMATION": "Used mostly within Funds 10,12,14,31,40-69 and Fund 11 for location 2 accounts."
+    },
+    {
+        "OBJECT": 53175,
+        "DESCRIPTION": "Benefits-Seconded Positions",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 53180,
+        "DESCRIPTION": "Charge Out-Bachelor-Cdn(F/T)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53181,
+        "DESCRIPTION": "Charge Out-Bachelor-For(F/T)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53182,
+        "DESCRIPTION": "Charge Out-Bachelor-Cdn(P/T)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53183,
+        "DESCRIPTION": "Charge Out-Bachelor-For(P/T)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53184,
+        "DESCRIPTION": "Charge Out-Masters(Cdn)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53185,
+        "DESCRIPTION": "Charge Out-Masters(For)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53186,
+        "DESCRIPTION": "Charge Out-Doctorate(Cdn)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53187,
+        "DESCRIPTION": "Charge Out-Doctorate(For)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53188,
+        "DESCRIPTION": "Charge Out-Postdoc(Cdn)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": 53189,
+        "DESCRIPTION": "Charge Out-Postdoc (Int'l)",
+        "ADDITIONAL INFORMATION": "Used mostly within Research funds (14, 40-69)"
+    },
+    {
+        "OBJECT": "60XXX",
+        "DESCRIPTION": "CAPITALIZED FIXED ASSETS",
+        "ADDITIONAL INFORMATION": "For expenses that meet the definition and thresholds for capital assets."
+    },
+    {
+        "OBJECT": 60100,
+        "DESCRIPTION": "Land",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60110,
+        "DESCRIPTION": "Land Improvements",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60210,
+        "DESCRIPTION": "Buildings-Residence",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60220,
+        "DESCRIPTION": "Buildings-Academic",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60230,
+        "DESCRIPTION": "Buildings-Sundry",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60240,
+        "DESCRIPTION": "Buildings-Improvements",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000, otherwise use 72120"
+    },
+    {
+        "OBJECT": 60305,
+        "DESCRIPTION": "F&E-Other",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64105"
+    },
+    {
+        "OBJECT": 60310,
+        "DESCRIPTION": "F&E-Laboratory/Workshop",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64110"
+    },
+    {
+        "OBJECT": 60315,
+        "DESCRIPTION": "F&E-Classrooms",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64115"
+    },
+    {
+        "OBJECT": 60320,
+        "DESCRIPTION": "F&E-Office",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64120"
+    },
+    {
+        "OBJECT": 60330,
+        "DESCRIPTION": "F&E-Athletic",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64130"
+    },
+    {
+        "OBJECT": 60335,
+        "DESCRIPTION": "F&E-Library",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64135"
+    },
+    {
+        "OBJECT": 60340,
+        "DESCRIPTION": "F&E-Residence",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64140"
+    },
+    {
+        "OBJECT": 60345,
+        "DESCRIPTION": "F&E-Maintenance Equipment",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64145"
+    },
+    {
+        "OBJECT": 60350,
+        "DESCRIPTION": "F&E-Audio Visual",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64180"
+    },
+    {
+        "OBJECT": 60450,
+        "DESCRIPTION": "F&E-Computers/Tablets/Hardware",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64150"
+    },
+    {
+        "OBJECT": 60470,
+        "DESCRIPTION": "F&E-Computer Software",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64170"
+    },
+    {
+        "OBJECT": 60500,
+        "DESCRIPTION": "Vehicles & Rolling Stock",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$15,000, otherwise use 64190"
+    },
+    {
+        "OBJECT": 60600,
+        "DESCRIPTION": "Campus Roads & Tunnels",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60700,
+        "DESCRIPTION": "Network Construction",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60920,
+        "DESCRIPTION": "Building Improvement Work in Progress",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60925,
+        "DESCRIPTION": "New Building Work in Progress",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60960,
+        "DESCRIPTION": "Roads & Tunnels Work in Progress",
+        "ADDITIONAL INFORMATION": "Capital asset purchases >$100,000"
+    },
+    {
+        "OBJECT": 60999,
+        "DESCRIPTION": "Capital Assets Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "61XXX",
+        "DESCRIPTION": "Travel",
+        "ADDITIONAL INFORMATION": "Travel includes expenditures on recruitment, travel, moving and relocation of staff, field trips and all other types of travel necessary for the operation of the university."
+    },
+    {
+        "OBJECT": 61105,
+        "DESCRIPTION": "Transportation",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61110,
+        "DESCRIPTION": "Accommodation",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61114,
+        "DESCRIPTION": "Meal allowance employees",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61115,
+        "DESCRIPTION": "Meals",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61116,
+        "DESCRIPTION": "Incidentals(travel)",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61120,
+        "DESCRIPTION": "Taxis & Parking",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61125,
+        "DESCRIPTION": "Fuel",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 61135,
+        "DESCRIPTION": "Vehicle rental",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of renting vehicles."
+    },
+    {
+        "OBJECT": 61136,
+        "DESCRIPTION": "Vehicle Rental over 30 days",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of renting vehicles over 30 days."
+    },
+    {
+        "OBJECT": 61150,
+        "DESCRIPTION": "Relocation",
+        "ADDITIONAL INFORMATION": "Reimbursement of relocation costs for eligible faculty and staff."
+    },
+    {
+        "OBJECT": 61155,
+        "DESCRIPTION": "Conference/registr&admiss fees",
+        "ADDITIONAL INFORMATION": "Registration for conferences, workshops, etc. Travel related admission fees."
+    },
+    {
+        "OBJECT": 61175,
+        "DESCRIPTION": "Travel costs - guests",
+        "ADDITIONAL INFORMATION": "Includes accomodations, transportation, meals, incidentals, vehicle rental and any travel related costs for non UNB employees/guests/visitors."
+    },
+    {
+        "OBJECT": 61999,
+        "DESCRIPTION": "Travel Budget Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "62XXX",
+        "DESCRIPTION": "LIBRARY",
+        "ADDITIONAL INFORMATION": "Includes the purchases of and access to books, periodicals, and other reference materials for the universities main, faculty or departmental libraries. Book binding also included."
+    },
+    {
+        "OBJECT": 62110,
+        "DESCRIPTION": "Lib Acq'n-Periodicals & Serials",
+        "ADDITIONAL INFORMATION": "Periodicals/serials at 15% tax rate - for non library use please use 63290."
+    },
+    {
+        "OBJECT": 62115,
+        "DESCRIPTION": "Lib Acq'n-Film Materials",
+        "ADDITIONAL INFORMATION": "For non library use please use 63290"
+    },
+    {
+        "OBJECT": 62116,
+        "DESCRIPTION": "Lib Acq'n-E-Books",
+        "ADDITIONAL INFORMATION": "For non library use please use 63290"
+    },
+    {
+        "OBJECT": 62125,
+        "DESCRIPTION": "Lib Acq'n-Binding",
+        "ADDITIONAL INFORMATION": "For non library use please use 75200"
+    },
+    {
+        "OBJECT": 62130,
+        "DESCRIPTION": "Acq'n-HST 100% Books",
+        "ADDITIONAL INFORMATION": "Book purchases at 5% tax rate for both library and departmental use"
+    },
+    {
+        "OBJECT": 62132,
+        "DESCRIPTION": "Acq'n-HST 100% Periodicals/serials",
+        "ADDITIONAL INFORMATION": "Periodicals/serials at 5% tax rate for library and departmental use"
+    },
+    {
+        "OBJECT": 62140,
+        "DESCRIPTION": "Lib Acq'n-Cataloguing Materials",
+        "ADDITIONAL INFORMATION": "For non library use please use 63290"
+    },
+    {
+        "OBJECT": 62145,
+        "DESCRIPTION": "Document Delivery Serv/ILL",
+        "ADDITIONAL INFORMATION": "Document Delivery Service & Interlibrary Loans"
+    },
+    {
+        "OBJECT": 62999,
+        "DESCRIPTION": "Acquisitions Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "630XX",
+        "DESCRIPTION": "OTHER OPERATIONAL EXPENSES",
+        "ADDITIONAL INFORMATION": "Hospitality, advertising, misc. licenses, bank charges"
+    },
+    {
+        "OBJECT": 63015,
+        "DESCRIPTION": "Donations to qualified donees",
+        "ADDITIONAL INFORMATION": "Donations to qualified donees (organizations that can issue official donation receipts). The department will be required to provide the BN/Registration number of the Charity so it can be reported to CRA."
+    },
+    {
+        "OBJECT": 63031,
+        "DESCRIPTION": "Hospitality - Employee",
+        "ADDITIONAL INFORMATION": "Use this account in accordance with the hospitality policy. Expenses are typically for \"\"non\"\" work related events such as department social functions (holiday receptions, BBQ's, retirements). Work related, employee events such as planning/training sessions, please use 75400 Food, 73100 Room rental."
+    },
+    {
+        "OBJECT": 63032,
+        "DESCRIPTION": "Hospitality - Alcohol",
+        "ADDITIONAL INFORMATION": "Any alcohol purchased at any time for UNB Employees or guests."
+    },
+    {
+        "OBJECT": 63033,
+        "DESCRIPTION": "Hospitality - Guests",
+        "ADDITIONAL INFORMATION": "Use this account in accordance with the hospitality policy. Expenses are typically for food & beverages (incl. catering), activities, small gifts and tokens of appreciation for hosting non-UNB guests/visitors (prospective staff, students, benefactors or other stakeholders) e.g. Recruiting"
+    },
+    {
+        "OBJECT": 63034,
+        "DESCRIPTION": "University Functions",
+        "ADDITIONAL INFORMATION": "Use this account for activities in support of the university that fall outside hospitality, such as to purchase a table or seat at a community event, awards banquet, annual retirement dinner, 25 year recognition event, or a fundraiser, etc."
+    },
+    {
+        "OBJECT": 63040,
+        "DESCRIPTION": "Licences & Fees",
+        "ADDITIONAL INFORMATION": "Licenses (vehicle, liquor, etc.), permits, security checks, etc."
+    },
+    {
+        "OBJECT": 63050,
+        "DESCRIPTION": "Exchange Costs",
+        "ADDITIONAL INFORMATION": "US and Foreign Currency Exchange Costs"
+    },
+    {
+        "OBJECT": 63060,
+        "DESCRIPTION": "Bank Charges",
+        "ADDITIONAL INFORMATION": "Bank fees and general service charges including interest charges (excluding long term debt interest). Wire fees. Convenience and payment processing fees."
+    },
+    {
+        "OBJECT": 63065,
+        "DESCRIPTION": "Cash Over/Short",
+        "ADDITIONAL INFORMATION": "Cash discrepancies in petty cash funds/floats"
+    },
+    {
+        "OBJECT": 63071,
+        "DESCRIPTION": "Bad Debt Expense",
+        "ADDITIONAL INFORMATION": "Losses related to uncollectible accounts receivable"
+    },
+    {
+        "OBJECT": 63080,
+        "DESCRIPTION": "Publications",
+        "ADDITIONAL INFORMATION": "Journal Submissions Fees, Publication Fees, Illustrations, Reproductions, etc."
+    },
+    {
+        "OBJECT": 63090,
+        "DESCRIPTION": "Adv-Courses",
+        "ADDITIONAL INFORMATION": "Any advertising costs related to courses"
+    },
+    {
+        "OBJECT": 63091,
+        "DESCRIPTION": "Adv-Faculty Recruiting",
+        "ADDITIONAL INFORMATION": "Advertising costs incurred in the recruitment and selection of new faculty."
+    },
+    {
+        "OBJECT": 63092,
+        "DESCRIPTION": "Adv-Staff Recruiting",
+        "ADDITIONAL INFORMATION": "Advertising costs incurred in the recruitment and selection of new staff."
+    },
+    {
+        "OBJECT": 63095,
+        "DESCRIPTION": "Adv- Events/Stud Recr/Other",
+        "ADDITIONAL INFORMATION": "Advertising costs to promote UNB programs or activities at university events, trade shows, radio, tv, billboards, student recruitment, etc."
+    },
+    {
+        "OBJECT": 63097,
+        "DESCRIPTION": "Adv-Agency Media Buy",
+        "ADDITIONAL INFORMATION": "Advertising cost of purchasing ad space through a media buying company (print, cinema, digital, out-of-home, etc.)"
+    },
+    {
+        "OBJECT": "631XX",
+        "DESCRIPTION": "MATERIALS & SUPPLIES",
+        "ADDITIONAL INFORMATION": "Include expenditures that would normally be consumed in the fiscal year. Small dollar equipment and computer software should be reported under 64xxx F&E."
+    },
+    {
+        "OBJECT": 63105,
+        "DESCRIPTION": "Supplies - General",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63106,
+        "DESCRIPTION": "Materials - Promotional",
+        "ADDITIONAL INFORMATION": "Materials purchased to promote an event or the University as a whole. UNB Swag"
+    },
+    {
+        "OBJECT": 63107,
+        "DESCRIPTION": "Supplies - Athletic",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63108,
+        "DESCRIPTION": "Materials - Event",
+        "ADDITIONAL INFORMATION": "Materials purchased specific to an event - e.g. Awards, prizes, materials given out at conference, etc."
+    },
+    {
+        "OBJECT": 63110,
+        "DESCRIPTION": "Supplies - laundry",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63112,
+        "DESCRIPTION": "Uniforms",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63115,
+        "DESCRIPTION": "Supplies - Field",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63121,
+        "DESCRIPTION": "Housing & Food services",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63145,
+        "DESCRIPTION": "Photography & Film",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63150,
+        "DESCRIPTION": "Supplies - Chemicals",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63155,
+        "DESCRIPTION": "FM Material & Supply charges",
+        "ADDITIONAL INFORMATION": "For Facilities Management material and supply charges"
+    },
+    {
+        "OBJECT": 63157,
+        "DESCRIPTION": "Materials - Landscaping",
+        "ADDITIONAL INFORMATION": "Plants/Flowers & planters, mulch, etc. For larger landscaping projects use 72130."
+    },
+    {
+        "OBJECT": 63160,
+        "DESCRIPTION": "Gases",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63165,
+        "DESCRIPTION": "Supplies - Glassware",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63170,
+        "DESCRIPTION": "Supplies - Safety",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63175,
+        "DESCRIPTION": "Solvents",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63180,
+        "DESCRIPTION": "Supplies - Caretaker",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63185,
+        "DESCRIPTION": "Supplies -Laboratory",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63186,
+        "DESCRIPTION": "Specimens",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63187,
+        "DESCRIPTION": "Supplies - Animal Care",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63190,
+        "DESCRIPTION": "Supplies - Office & Paper",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63205,
+        "DESCRIPTION": "Instructional Events",
+        "ADDITIONAL INFORMATION": "E.g. ELP & Renaissance College"
+    },
+    {
+        "OBJECT": 63210,
+        "DESCRIPTION": "Supplies - Instructional",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63215,
+        "DESCRIPTION": "Food/Groceries",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63220,
+        "DESCRIPTION": "Small Repair Parts",
+        "ADDITIONAL INFORMATION": "For significant repair parts, consider using 64145 F&E Maintenance Equipment object."
+    },
+    {
+        "OBJECT": 63225,
+        "DESCRIPTION": "Fuel & Lubricants",
+        "ADDITIONAL INFORMATION": "For use in university equipment. Fuel related to travel use 61125."
+    },
+    {
+        "OBJECT": 63230,
+        "DESCRIPTION": "Materials - small construction",
+        "ADDITIONAL INFORMATION": "If materials are purchased as part of a larger construction project, use 72120."
+    },
+    {
+        "OBJECT": 63240,
+        "DESCRIPTION": "Small Tools",
+        "ADDITIONAL INFORMATION": "If tools are purchased as part of a larger construction project, use appropriate 72120."
+    },
+    {
+        "OBJECT": 63260,
+        "DESCRIPTION": "Electronic & Computer Consumables",
+        "ADDITIONAL INFORMATION": "Consumable items normally used or replaced annually such as batteries, extension cords, toner and ink."
+    },
+    {
+        "OBJECT": 63270,
+        "DESCRIPTION": "Supplies - Medical",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63280,
+        "DESCRIPTION": "Subscriptions",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of subscriptions not part of the library collection. If for library collection please use 62 object series."
+    },
+    {
+        "OBJECT": 63290,
+        "DESCRIPTION": "Non-Library Publications",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of books, periodicals, journals, newspapers, audiobooks and the like, which are not considered part of the library collection. If for library collection please use 62 object series."
+    },
+    {
+        "OBJECT": "633XX",
+        "DESCRIPTION": "Miscellaneous expense transactions",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 63315,
+        "DESCRIPTION": "Grants/Contributions/Sponsorship payments",
+        "ADDITIONAL INFORMATION": "Use when the university makes a contribution or financial support through a grant or sponsorship payment."
+    },
+    {
+        "OBJECT": 63320,
+        "DESCRIPTION": "Sundry - Miscellaneous Expense",
+        "ADDITIONAL INFORMATION": "To be used only when no other logical expense code exists."
+    },
+    {
+        "OBJECT": 63328,
+        "DESCRIPTION": "Royalty expense",
+        "ADDITIONAL INFORMATION": "Payments for use of the right to use assets or property, e.g. patents, copyrights, artist works, trademark, etc."
+    },
+    {
+        "OBJECT": 63332,
+        "DESCRIPTION": "Contract/grant internal tsfs",
+        "ADDITIONAL INFORMATION": "For Research funds only - balances to $0 both sides of entry"
+    },
+    {
+        "OBJECT": 63340,
+        "DESCRIPTION": "External Research tsfs/ORS use",
+        "ADDITIONAL INFORMATION": "For Research funds only"
+    },
+    {
+        "OBJECT": 63341,
+        "DESCRIPTION": "UNB Subgrants",
+        "ADDITIONAL INFORMATION": "For Research funds only"
+    },
+    {
+        "OBJECT": 63360,
+        "DESCRIPTION": "SELF Experiential Learn Pmts",
+        "ADDITIONAL INFORMATION": "Specific to experiential learning payments. In 2019 these payments were recorded in object 52190."
+    },
+    {
+        "OBJECT": 63361,
+        "DESCRIPTION": "Co-op Experiential Learn Pmts",
+        "ADDITIONAL INFORMATION": "Specific to experiential learning payments."
+    },
+    {
+        "OBJECT": 63362,
+        "DESCRIPTION": "Int'l Experiential Learn Pmts",
+        "ADDITIONAL INFORMATION": "Specific to experiential learning payments."
+    },
+    {
+        "OBJECT": 63999,
+        "DESCRIPTION": "Supplies-Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "641XX",
+        "DESCRIPTION": "FURNITURE & EQUIPMENT PURCHASES UNDER $15,000",
+        "ADDITIONAL INFORMATION": "Furniture and Equipment purchases. If the cost exceeds $15,000 it may be classified as a capital asset and recorded in object codes beginning with 60xxx."
+    },
+    {
+        "OBJECT": 64105,
+        "DESCRIPTION": "F&E-Other",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases that don't logically fit in the following objects."
+    },
+    {
+        "OBJECT": 64110,
+        "DESCRIPTION": "F&E-Laboratory/Workshop",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University labs, workshops."
+    },
+    {
+        "OBJECT": 64115,
+        "DESCRIPTION": "F&E-Classrooms",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University classrooms."
+    },
+    {
+        "OBJECT": 64120,
+        "DESCRIPTION": "F&E-Office",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University offices."
+    },
+    {
+        "OBJECT": 64130,
+        "DESCRIPTION": "F&E-Athletic",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University athletics."
+    },
+    {
+        "OBJECT": 64135,
+        "DESCRIPTION": "F&E-Library",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University libraries."
+    },
+    {
+        "OBJECT": 64140,
+        "DESCRIPTION": "F&E-Residence",
+        "ADDITIONAL INFORMATION": "Furniture and equipment purchases for University residences."
+    },
+    {
+        "OBJECT": 64145,
+        "DESCRIPTION": "F&E-Maintenance equipment",
+        "ADDITIONAL INFORMATION": "For purchases of maintenance equipment. R&M of the equipment should be coded to 64210."
+    },
+    {
+        "OBJECT": 64150,
+        "DESCRIPTION": "F&E-Computers/Tablets/Hardware",
+        "ADDITIONAL INFORMATION": "For all computers, tablets, hardware, computer accessories (keyboards, mice, docks, web cameras, headphones, monitors, hard/flash drives, computer components). If cost exceeds $15k, capitalize."
+    },
+    {
+        "OBJECT": 64155,
+        "DESCRIPTION": "F&E Mobile Phones",
+        "ADDITIONAL INFORMATION": "For purchases of mobile phones."
+    },
+    {
+        "OBJECT": 64170,
+        "DESCRIPTION": "F&E-Computer Software",
+        "ADDITIONAL INFORMATION": "For one time purchase and subscription based software for individuals or groups such as web hosting, Adobe products, etc. For university-wide site licenses, use 64250."
+    },
+    {
+        "OBJECT": 64180,
+        "DESCRIPTION": "F&E-Audio Visual",
+        "ADDITIONAL INFORMATION": "For purchases of audio visual equipment."
+    },
+    {
+        "OBJECT": 64190,
+        "DESCRIPTION": "F&E-Vehicles",
+        "ADDITIONAL INFORMATION": "For purchases of vehicles and motorized equipment."
+    },
+    {
+        "OBJECT": 64198,
+        "DESCRIPTION": "F&E-Clearing to Capital Assets",
+        "ADDITIONAL INFORMATION": "For use by Financial Services to clear expenses to capital asset object codes"
+    },
+    {
+        "OBJECT": "642XX",
+        "DESCRIPTION": "EQUIPMENT RENTAL & MAINTENANCE",
+        "ADDITIONAL INFORMATION": "Equipment rental, maintenance contracts, leases and site licenses"
+    },
+    {
+        "OBJECT": 64205,
+        "DESCRIPTION": "Maint Contracts-Buildings",
+        "ADDITIONAL INFORMATION": "For maintenance & repairs of buildings. E.g. Tweeddale maintenance contract"
+    },
+    {
+        "OBJECT": 64210,
+        "DESCRIPTION": "Maint/Repairs Equipment",
+        "ADDITIONAL INFORMATION": "For repairs and maintenance to equipment, including vehicles, office equipment such as computers on a contract or \"\"call out\"\" basis, etc."
+    },
+    {
+        "OBJECT": 64215,
+        "DESCRIPTION": "Maint Contracts-Other",
+        "ADDITIONAL INFORMATION": "For maintenance contracts that fall outside of 64205."
+    },
+    {
+        "OBJECT": 64220,
+        "DESCRIPTION": "Rental-Office/computer/hardware equipment",
+        "ADDITIONAL INFORMATION": "For rentals of office equipment, computers, hardware."
+    },
+    {
+        "OBJECT": 64235,
+        "DESCRIPTION": "Leases-Vehicles",
+        "ADDITIONAL INFORMATION": "For vehicle leases."
+    },
+    {
+        "OBJECT": 64240,
+        "DESCRIPTION": "Rental-Other",
+        "ADDITIONAL INFORMATION": "For equipment rental not covered under 64220. E.g. Coffee machine, dump trailer, crane, loader, porta-potties, tent rentals."
+    },
+    {
+        "OBJECT": 64250,
+        "DESCRIPTION": "Site licenses",
+        "ADDITIONAL INFORMATION": "For university-wide software licenses. For software and apps used by groups or individuals, use 64170 F&E Computer software."
+    },
+    {
+        "OBJECT": 64999,
+        "DESCRIPTION": "Furniture & Equipment Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "65XXX",
+        "DESCRIPTION": "CANADIAN INTERNATIONAL DEVELOPMENT AGENCY",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 65020,
+        "DESCRIPTION": "Visiting Scholar-Living Allow",
+        "ADDITIONAL INFORMATION": "Visiting scholars coming here to give lectures, seminars, or to provide consultation or advice. Paid in the form of allowances."
+    },
+    {
+        "OBJECT": "66XXX",
+        "DESCRIPTION": "TRUST & ENDOWMENT EXPENSES",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 66103,
+        "DESCRIPTION": "Administration Fee",
+        "ADDITIONAL INFORMATION": "For use by Financial Services only"
+    },
+    {
+        "OBJECT": 66104,
+        "DESCRIPTION": "Insurance Policy Payments",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 66105,
+        "DESCRIPTION": "Other Expense-trust",
+        "ADDITIONAL INFORMATION": "For use by Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": "71XXX",
+        "DESCRIPTION": "UTILITIES",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71100,
+        "DESCRIPTION": "Electricity",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71200,
+        "DESCRIPTION": "Fuel",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71202,
+        "DESCRIPTION": "#6 Oil",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71203,
+        "DESCRIPTION": "Wood",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71204,
+        "DESCRIPTION": "Natural Gas",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71205,
+        "DESCRIPTION": "Purchased Steam",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71300,
+        "DESCRIPTION": "Water",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": "714XX",
+        "DESCRIPTION": "COMMUNICATIONS",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71400,
+        "DESCRIPTION": "Telephone-Local&Internet Charges",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71410,
+        "DESCRIPTION": "Telephones - Long Distance",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 71420,
+        "DESCRIPTION": "Mobile/Data/Cable Usage",
+        "ADDITIONAL INFORMATION": "Mobile phone/Data plans/Cable charges"
+    },
+    {
+        "OBJECT": 71425,
+        "DESCRIPTION": "Courier/Shipping HST",
+        "ADDITIONAL INFORMATION": "Charge this account with costs incurred in obtaining courier, delivery services, shipping or other transportation of goods charges."
+    },
+    {
+        "OBJECT": 71426,
+        "DESCRIPTION": "GST Broker Clearance",
+        "ADDITIONAL INFORMATION": "For GST charged by Brokerage Firm (Thompson Ahern)"
+    },
+    {
+        "OBJECT": 71427,
+        "DESCRIPTION": "Postage",
+        "ADDITIONAL INFORMATION": "Charge this account with all metered postage and stamps."
+    },
+    {
+        "OBJECT": 71999,
+        "DESCRIPTION": "Utilities Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "72XXX",
+        "DESCRIPTION": "RENOVATIONS & ALTERATIONS NON CAPITAL",
+        "ADDITIONAL INFORMATION": "Repairs and maintenance of the existing space of the institution. If the renovation exceeds $100k and extends the life of the building use 60240. For repairs and maintenance of detached equipment use 64210."
+    },
+    {
+        "OBJECT": 72000,
+        "DESCRIPTION": "CLOSED Renovations - use 72120 or 72130",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 72120,
+        "DESCRIPTION": "Repairs/Maint Building",
+        "ADDITIONAL INFORMATION": "Major repairs & maintenance to the existing space of the institution <$100k. E.g. Repair ceiling tile, replace broken window. For capitalized building improvements over $100k use 60240."
+    },
+    {
+        "OBJECT": 72130,
+        "DESCRIPTION": "Repairs/Maint Grounds",
+        "ADDITIONAL INFORMATION": "Major grounds work such as sidewalk repair, paving <$100k. For capitalized land improvements over $100k use 60110. For snow removal or lawn maintenance use 75550."
+    },
+    {
+        "OBJECT": 72198,
+        "DESCRIPTION": "Clearing to Capital Assets",
+        "ADDITIONAL INFORMATION": "For Financial Services use only"
+    },
+    {
+        "OBJECT": "73XXX",
+        "DESCRIPTION": "SPACE RENTAL",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 73100,
+        "DESCRIPTION": "Room/Lab Rental",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of renting a room or lab on a short term basis."
+    },
+    {
+        "OBJECT": 73120,
+        "DESCRIPTION": "Building Rental",
+        "ADDITIONAL INFORMATION": "Charge this account with the cost of leasing space in non-university buildings for classrooms, storage, etc."
+    },
+    {
+        "OBJECT": 73999,
+        "DESCRIPTION": "Room & Building rental pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "74XXX",
+        "DESCRIPTION": "SCHOLARSHIPS/BURSARIES/PRIZES",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 74100,
+        "DESCRIPTION": "Scholarship Expense",
+        "ADDITIONAL INFORMATION": "Scholarship and awards."
+    },
+    {
+        "OBJECT": 74120,
+        "DESCRIPTION": "Student Prizes/Gifts/Incentive",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 74200,
+        "DESCRIPTION": "Annuity Payments",
+        "ADDITIONAL INFORMATION": "For Trust and Treasury Services only"
+    },
+    {
+        "OBJECT": 74999,
+        "DESCRIPTION": "Scholarship pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "75XXX",
+        "DESCRIPTION": "EXTERNALLY CONTRACTED SERVICES",
+        "ADDITIONAL INFORMATION": "Fees paid for specialized service contracted out to external agencies (includes both time and material) use 75xxx. For contracted services related to renovations and alterations use 72xxx, for professional fees use 76xxx, for equipment rental and maintenance use 64xxx, land & buildings use 72xxx."
+    },
+    {
+        "OBJECT": 75100,
+        "DESCRIPTION": "ECS-Cleaning",
+        "ADDITIONAL INFORMATION": "Cleaning Service costs."
+    },
+    {
+        "OBJECT": 75110,
+        "DESCRIPTION": "ECS-Contracted Service/Admin & Other",
+        "ADDITIONAL INFORMATION": "Administrative time & material contracted services, e.g. translation, editing, photography, laundry, musicians, graphic artists, speaker fees, other misc."
+    },
+    {
+        "OBJECT": 75115,
+        "DESCRIPTION": "ECS-Contracted Serv/Lab & Technical",
+        "ADDITIONAL INFORMATION": "Technical time & material contracted services, e.g. Lab Services (DNA sequencing, sampling, testing, contracted scientific services), machine shop, electronics drafting, glassblowing, contracted computer programming and other technical services, referees"
+    },
+    {
+        "OBJECT": 75200,
+        "DESCRIPTION": "ECS-Printing/Copying/Shredding",
+        "ADDITIONAL INFORMATION": "Includes Bookbinding"
+    },
+    {
+        "OBJECT": 75400,
+        "DESCRIPTION": "ECS-Food Service(External)",
+        "ADDITIONAL INFORMATION": "Food service/catering not provided by University food contract. E.g. Delta hotel"
+    },
+    {
+        "OBJECT": 75401,
+        "DESCRIPTION": "ECS-Food Service(Internal)",
+        "ADDITIONAL INFORMATION": "WU Centre use only"
+    },
+    {
+        "OBJECT": 75402,
+        "DESCRIPTION": "ECS-Liquor Purchases",
+        "ADDITIONAL INFORMATION": "Liquor purchases as part of food service in 75400 or 75401"
+    },
+    {
+        "OBJECT": 75500,
+        "DESCRIPTION": "ECS-Garbage/Waste Removal",
+        "ADDITIONAL INFORMATION": "Garbage/Waste removal costs"
+    },
+    {
+        "OBJECT": 75550,
+        "DESCRIPTION": "ECS-Grounds Maintenance",
+        "ADDITIONAL INFORMATION": "Snow Removal, Lawn Maintenance"
+    },
+    {
+        "OBJECT": 75600,
+        "DESCRIPTION": "ECS-Security",
+        "ADDITIONAL INFORMATION": "External security service, alarm service"
+    },
+    {
+        "OBJECT": 75700,
+        "DESCRIPTION": "ECS-Honorariums",
+        "ADDITIONAL INFORMATION": "Small voluntary payments made for services which are not legally or traditionally required. Typically used to cover cost for volunteers or guest speakers"
+    },
+    {
+        "OBJECT": 75800,
+        "DESCRIPTION": "ECS-Acad Teaching & Supervision",
+        "ADDITIONAL INFORMATION": "Payment to hire an outside source to teach a course, conduct a workshop or supervise students"
+    },
+    {
+        "OBJECT": 75999,
+        "DESCRIPTION": "External Services Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "76XXX",
+        "DESCRIPTION": "PROFESSIONAL FEES",
+        "ADDITIONAL INFORMATION": "Expenditures for professional fees normally performed by those requiring a professional license (auditors, lawyers, doctors, engineers, human resource, and other consultants). Services are commonly advisory based on their area of professional expertise."
+    },
+    {
+        "OBJECT": 76100,
+        "DESCRIPTION": "Audit Fees",
+        "ADDITIONAL INFORMATION": "Year end audit fees"
+    },
+    {
+        "OBJECT": 76150,
+        "DESCRIPTION": "Assurance/Accounting & Tax Fees",
+        "ADDITIONAL INFORMATION": "For accounting, assurance & tax consulting that fall outside of year end audit"
+    },
+    {
+        "OBJECT": 76198,
+        "DESCRIPTION": "Clearing to Capital Assets",
+        "ADDITIONAL INFORMATION": "When professional fees are associated with a capital project financial services will use this object to clear to capital object 60xxx"
+    },
+    {
+        "OBJECT": 76200,
+        "DESCRIPTION": "Legal Fees",
+        "ADDITIONAL INFORMATION": "For legal professional services"
+    },
+    {
+        "OBJECT": 76300,
+        "DESCRIPTION": "Investment Custodial Fees",
+        "ADDITIONAL INFORMATION": "For custodial fees related to management of investments"
+    },
+    {
+        "OBJECT": 76400,
+        "DESCRIPTION": "Investment Management Fees",
+        "ADDITIONAL INFORMATION": "For investment management fees"
+    },
+    {
+        "OBJECT": 76600,
+        "DESCRIPTION": "Consultants & Other Profession",
+        "ADDITIONAL INFORMATION": "Other professional fees, e.g. human resource consultants, computer & other, executive search firms, course development costs, elder payments."
+    },
+    {
+        "OBJECT": 76610,
+        "DESCRIPTION": "Medical Fees",
+        "ADDITIONAL INFORMATION": "For professional services provided by medical professionals."
+    },
+    {
+        "OBJECT": 76630,
+        "DESCRIPTION": "Engineering/Architect Fees",
+        "ADDITIONAL INFORMATION": "For Engineering or architect professional services."
+    },
+    {
+        "OBJECT": 76640,
+        "DESCRIPTION": "Actuarial Services",
+        "ADDITIONAL INFORMATION": "For actuarial professional services."
+    },
+    {
+        "OBJECT": 76800,
+        "DESCRIPTION": "Courses & Tuition Fees",
+        "ADDITIONAL INFORMATION": "For professional development costs required by employer - faculty/staff reimbursement"
+    },
+    {
+        "OBJECT": 76999,
+        "DESCRIPTION": "Professional Fees Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "77XXX",
+        "DESCRIPTION": "INSURANCE",
+        "ADDITIONAL INFORMATION": "Insurance costs of the university"
+    },
+    {
+        "OBJECT": 77100,
+        "DESCRIPTION": "Accident & Public Liability",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77200,
+        "DESCRIPTION": "Auto Insurance",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77300,
+        "DESCRIPTION": "Buildings & Contents Insurance",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77400,
+        "DESCRIPTION": "Crime & Dishonesty Insurance",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77500,
+        "DESCRIPTION": "Other Insurance",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77600,
+        "DESCRIPTION": "Uninsured Losses",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": 77999,
+        "DESCRIPTION": "Insurance Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "78XXX",
+        "DESCRIPTION": "PROPERTY TAX",
+        "ADDITIONAL INFORMATION": "Property tax of the university"
+    },
+    {
+        "OBJECT": 78100,
+        "DESCRIPTION": "Property Tax",
+        "ADDITIONAL INFORMATION": ""
+    },
+    {
+        "OBJECT": "79XXX",
+        "DESCRIPTION": "MEMBERSHIPS",
+        "ADDITIONAL INFORMATION": "Membership costs of the university"
+    },
+    {
+        "OBJECT": 79100,
+        "DESCRIPTION": "Membership-Academic Organizations",
+        "ADDITIONAL INFORMATION": "To be used only for institutional memberships such as AUCC & CAUBO."
+    },
+    {
+        "OBJECT": 79200,
+        "DESCRIPTION": "Membership-Business & Professional",
+        "ADDITIONAL INFORMATION": "To be used by individual faculty and staff members, for professional membership fees."
+    },
+    {
+        "OBJECT": 79300,
+        "DESCRIPTION": "Membership-Other Fees",
+        "ADDITIONAL INFORMATION": "For individual or institutional memberships. Costs associated with membership e.g. certification exam."
+    },
+    {
+        "OBJECT": 79999,
+        "DESCRIPTION": "Membership Fees Pool",
+        "ADDITIONAL INFORMATION": "Budget purposes only"
+    },
+    {
+        "OBJECT": "81XXX",
+        "DESCRIPTION": "COST OF SALES/COGS",
+        "ADDITIONAL INFORMATION": "Cost of goods sold is to be used where an inventory method of accounting is normally used."
+    },
+    {
+        "OBJECT": 81100,
+        "DESCRIPTION": "Cost of Sales",
+        "ADDITIONAL INFORMATION": "E.g. Bookstore and IBME"
+    },
+    {
+        "OBJECT": 81110,
+        "DESCRIPTION": "COGS - Inventory Prosthetic",
+        "ADDITIONAL INFORMATION": "For IBME use only"
+    },
+    {
+        "OBJECT": 81120,
+        "DESCRIPTION": "COGS - Obsolete inventory",
+        "ADDITIONAL INFORMATION": "E.g. Inventory that is damaged or obsolete"
+    },
+    {
+        "OBJECT": "82XXX",
+        "DESCRIPTION": "INTEREST & DEBT REPAYMENT",
+        "ADDITIONAL INFORMATION": "Interest and service debts of the institution, E.g. bank interest, mortgages."
+    },
+    {
+        "OBJECT": 82100,
+        "DESCRIPTION": "Debt Repayment-Interest",
+        "ADDITIONAL INFORMATION": "External loan interest payments"
+    },
+    {
+        "OBJECT": 82135,
+        "DESCRIPTION": "Debt Repmt-Internal Interest",
+        "ADDITIONAL INFORMATION": "For approved internal loan interest payments"
+    },
+    {
+        "OBJECT": 82200,
+        "DESCRIPTION": "Debt Repayment-Principal",
+        "ADDITIONAL INFORMATION": "External loan principal payments"
+    },
+    {
+        "OBJECT": 82235,
+        "DESCRIPTION": "Debt Repmt-Internal Principal",
+        "ADDITIONAL INFORMATION": "For repayment of internal loans including Energy Management projects. These transactions are eliminated for financial statement purposes."
+    },
+    {
+        "OBJECT": "91XXX",
+        "DESCRIPTION": "INTERNAL COST RECOVERIES",
+        "ADDITIONAL INFORMATION": "Centralized departments use internal cost recoveries to allocate costs across the institution. Both sides of the entry must use the same object."
+    },
+    {
+        "OBJECT": 91010,
+        "DESCRIPTION": "ICR-Imaging & Print Services",
+        "ADDITIONAL INFORMATION": "Chargebacks for Printing, Konica chargebacks, etc."
+    },
+    {
+        "OBJECT": 91015,
+        "DESCRIPTION": "ICR-Web & Media Services",
+        "ADDITIONAL INFORMATION": "Chargebacks for alumni videos, promos, posters, media services, portraits, view book, etc."
+    },
+    {
+        "OBJECT": 91020,
+        "DESCRIPTION": "ICR-Computing Services",
+        "ADDITIONAL INFORMATION": "ITS chargebacks, drops, licensing, UCard, Level 1, print credits, etc."
+    },
+    {
+        "OBJECT": 91025,
+        "DESCRIPTION": "ICR-VOIP",
+        "ADDITIONAL INFORMATION": "ITS chargebacks for VOIP"
+    },
+    {
+        "OBJECT": 91027,
+        "DESCRIPTION": "ICR-FM Vehicle Charges",
+        "ADDITIONAL INFORMATION": "FM vehicle chargebacks"
+    },
+    {
+        "OBJECT": 91028,
+        "DESCRIPTION": "ICR-FM Labour Charge",
+        "ADDITIONAL INFORMATION": "FM labour chargebacks (debit)"
+    },
+    {
+        "OBJECT": 91029,
+        "DESCRIPTION": "ICR-FM Labour Recovery",
+        "ADDITIONAL INFORMATION": "FM labour recovery (credit)"
+    },
+    {
+        "OBJECT": 91030,
+        "DESCRIPTION": "ICR-Central Heating Plant",
+        "ADDITIONAL INFORMATION": "Central Heating Plant steam recovery"
+    },
+    {
+        "OBJECT": 91031,
+        "DESCRIPTION": "ICR-SJ Water",
+        "ADDITIONAL INFORMATION": "SJ Water recovery"
+    },
+    {
+        "OBJECT": 91032,
+        "DESCRIPTION": "ICR-SJ Steam",
+        "ADDITIONAL INFORMATION": "SJ Steam recovery"
+    },
+    {
+        "OBJECT": 91033,
+        "DESCRIPTION": "ICR-SJ Power",
+        "ADDITIONAL INFORMATION": "SJ Power recovery"
+    },
+    {
+        "OBJECT": 91036,
+        "DESCRIPTION": "ICR-University Functions",
+        "ADDITIONAL INFORMATION": "Charges between internal departments for costs to attend UNB functions. E.g. Cost for Dean to attend awards dinner, atrium, ballroom rentals."
+    },
+    {
+        "OBJECT": 91037,
+        "DESCRIPTION": "ICR-Conference Services - Management Fees",
+        "ADDITIONAL INFORMATION": "Conference Services chargebacks for management fees."
+    },
+    {
+        "OBJECT": 91038,
+        "DESCRIPTION": "ICR-Conference Services - Food",
+        "ADDITIONAL INFORMATION": "Conference Services chargebacks for food services."
+    },
+    {
+        "OBJECT": 91039,
+        "DESCRIPTION": "ICR-Conf Room/Equip/Other",
+        "ADDITIONAL INFORMATION": "Conference Services chargebacks for room rental, AV equip, etc. Can also be used by departments if they are recouping costs of a room rental from another department. E.g. BNS building/MBA SJ campus."
+    },
+    {
+        "OBJECT": 91040,
+        "DESCRIPTION": "ICR-Postage Charges",
+        "ADDITIONAL INFORMATION": "Chargebacks for postage."
+    },
+    {
+        "OBJECT": 91045,
+        "DESCRIPTION": "ICR-Library",
+        "ADDITIONAL INFORMATION": "Scanning and other related library type chargebacks"
+    },
+    {
+        "OBJECT": 91055,
+        "DESCRIPTION": "ICR-Security",
+        "ADDITIONAL INFORMATION": "Campus police and security chargebacks"
+    },
+    {
+        "OBJECT": 91065,
+        "DESCRIPTION": "ICR-Electron Microscopy Unit",
+        "ADDITIONAL INFORMATION": "Microscopy service chargebacks"
+    },
+    {
+        "OBJECT": 91066,
+        "DESCRIPTION": "ICR-MRI Instrument Time",
+        "ADDITIONAL INFORMATION": "MRI instrument time chargebacks"
+    },
+    {
+        "OBJECT": 91070,
+        "DESCRIPTION": "ICR-College of Extended Learning",
+        "ADDITIONAL INFORMATION": "CEL chargebacks"
+    },
+    {
+        "OBJECT": 91080,
+        "DESCRIPTION": "ICR-Lab/Shop/Data fees",
+        "ADDITIONAL INFORMATION": "E.g. Glassblowing, laser, Microscopy, 3D printing, Equipment usage, CHE Shops, liquid nitrogen, lab testing, NMR user fee, etc."
+    },
+    {
+        "OBJECT": 91085,
+        "DESCRIPTION": "ICR-Support capital fund proj",
+        "ADDITIONAL INFORMATION": "Support capital fund project"
+    },
+    {
+        "OBJECT": 91095,
+        "DESCRIPTION": "ICR-Kinesiology",
+        "ADDITIONAL INFORMATION": "Kinesiology internal chargebacks including AUC, Currie Centre, Turf Field/Dome, Athletics, etc."
+    },
+    {
+        "OBJECT": 91100,
+        "DESCRIPTION": "ICR-Manual Cheque Charges",
+        "ADDITIONAL INFORMATION": "Payroll charges to departments for issuing manual cheques"
+    },
+    {
+        "OBJECT": 91105,
+        "DESCRIPTION": "ICR-Internal O/H admin fee",
+        "ADDITIONAL INFORMATION": "E.g. Saint John College, MBA, Residence mgmt. fees, Nursing/Law agreement, etc."
+    },
+    {
+        "OBJECT": 91150,
+        "DESCRIPTION": "ICR-Internal bookstore sales",
+        "ADDITIONAL INFORMATION": "ICR-Internal bookstore sales"
+    },
+    {
+        "OBJECT": 91205,
+        "DESCRIPTION": "ICR-Research Overhead (OH)",
+        "ADDITIONAL INFORMATION": "ICR- Research overhead distribution across UNB units"
+    },
+    {
+        "OBJECT": 91206,
+        "DESCRIPTION": "ICR-Research OH to Faculty Institute or Centre",
+        "ADDITIONAL INFORMATION": "ICR-Research overhead to Faculty Institute or Centre"
+    },
+    {
+        "OBJECT": 91207,
+        "DESCRIPTION": "ICR-Research OH to Dept/Researcher",
+        "ADDITIONAL INFORMATION": "ICR-Research overhead to Dept/Researcher"
+    },
+    {
+        "OBJECT": 91999,
+        "DESCRIPTION": "Chargebacks Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": "93XXX",
+        "DESCRIPTION": "BUDGET CARRY FORWARD",
+        "ADDITIONAL INFORMATION": "Carry forwards/Internally restricted net assets"
+    },
+    {
+        "OBJECT": 93010,
+        "DESCRIPTION": "Budget Carry Forward",
+        "ADDITIONAL INFORMATION": "For budget carry forward entries only"
+    },
+    {
+        "OBJECT": "94XXX",
+        "DESCRIPTION": "INTERFUND",
+        "ADDITIONAL INFORMATION": "Interfund transfers (94xxx) are the movement of cash/fund balance from one fund to another. If the transfer relates to transferring goods or services then use ICR (91xxx) or the exact revenue or expense object on both sides. Transfers are not permitted between all fund combinations. Transfers require 94xxx object for both sides of the entry."
+    },
+    {
+        "OBJECT": 94010,
+        "DESCRIPTION": "AcadSal FT all funds to/fr Fund 31-34",
+        "ADDITIONAL INFORMATION": "Academic Salary FT transfers to/from Trust funds"
+    },
+    {
+        "OBJECT": 94015,
+        "DESCRIPTION": "AcadSal PT all funds to/fr Fund 31-34",
+        "ADDITIONAL INFORMATION": "Academic Salary PT transfers to/from Trust funds"
+    },
+    {
+        "OBJECT": 94020,
+        "DESCRIPTION": "NonAcadSal FT all funds to/fr Fund 31-34",
+        "ADDITIONAL INFORMATION": "Non Academic Salary FT transfers to/from Trust funds"
+    },
+    {
+        "OBJECT": 94025,
+        "DESCRIPTION": "NonAcadSal PT all funds to/fr Fund 31-34",
+        "ADDITIONAL INFORMATION": "Non Academic Salary PT transfers to/from Trust funds"
+    },
+    {
+        "OBJECT": 94030,
+        "DESCRIPTION": "NonSalary all funds to/fr Fund 31-34",
+        "ADDITIONAL INFORMATION": "Non Salary transfers to/from Trust funds"
+    },
+    {
+        "OBJECT": 94040,
+        "DESCRIPTION": "Within Fund 31-33-34",
+        "ADDITIONAL INFORMATION": "Transfers within the trust funds"
+    },
+    {
+        "OBJECT": 94100,
+        "DESCRIPTION": "NonSalary Fund 10-14 to/fr within Fund 40-69",
+        "ADDITIONAL INFORMATION": "Non Salary transfers - operating to/fr Research funds"
+    },
+    {
+        "OBJECT": 94110,
+        "DESCRIPTION": "AcadSalary Fund 10-14 to/fr 40-69",
+        "ADDITIONAL INFORMATION": "Academic Salary transfers - operating to/fr Research funds"
+    },
+    {
+        "OBJECT": 94120,
+        "DESCRIPTION": "NonAcadSalary Fund 10-14 to/fr 40-69",
+        "ADDITIONAL INFORMATION": "Non academic Salary transfers - operating to/fr Research funds"
+    },
+    {
+        "OBJECT": 94200,
+        "DESCRIPTION": "Transfers to/from Saint John",
+        "ADDITIONAL INFORMATION": "Transfers to/fr Saint John campus"
+    },
+    {
+        "OBJECT": 94300,
+        "DESCRIPTION": "NonSalary all funds to/fr Fund 21",
+        "ADDITIONAL INFORMATION": "Non Salary transfers to/from Capital funds"
+    },
+    {
+        "OBJECT": 94310,
+        "DESCRIPTION": "AcadSal FT all funds to/fr Fund 21",
+        "ADDITIONAL INFORMATION": "Academic Salary FT transfers to/from Capital funds"
+    },
+    {
+        "OBJECT": 94315,
+        "DESCRIPTION": "AcadSal PT all funds to/fr Fund 21",
+        "ADDITIONAL INFORMATION": "Academic Salary PT transfers to/from Capital funds"
+    },
+    {
+        "OBJECT": 94320,
+        "DESCRIPTION": "NonAcadSal FT all funds to/fr Fund 21",
+        "ADDITIONAL INFORMATION": "Non Academic Salary FT transfers to/from Capital funds"
+    },
+    {
+        "OBJECT": 94325,
+        "DESCRIPTION": "NonAcadSal PT all funds to/fr Fund 21",
+        "ADDITIONAL INFORMATION": "Non Academic Salary PT transfers to/from Capital funds"
+    },
+    {
+        "OBJECT": 94500,
+        "DESCRIPTION": "Within Fund 10-14",
+        "ADDITIONAL INFORMATION": "Non Salary transfers within the operating funds"
+    },
+    {
+        "OBJECT": 94520,
+        "DESCRIPTION": "AcadSal FT within Fund 10-14",
+        "ADDITIONAL INFORMATION": "Academic Salary FT transfers to/from Operating funds"
+    },
+    {
+        "OBJECT": 94525,
+        "DESCRIPTION": "AcadSal PT within Fund 10-14",
+        "ADDITIONAL INFORMATION": "Academic Salary PT transfers to/from Operating funds"
+    },
+    {
+        "OBJECT": 94530,
+        "DESCRIPTION": "NonAcadSal FT within Fund 10-14",
+        "ADDITIONAL INFORMATION": "Non Academic Salary FT transfers to/from Operating funds"
+    },
+    {
+        "OBJECT": 94535,
+        "DESCRIPTION": "NonAcadSal PT within Fund 10-14",
+        "ADDITIONAL INFORMATION": "Non Academic Salary PT transfers to/from Operating funds"
+    },
+    {
+        "OBJECT": 94999,
+        "DESCRIPTION": "Interfund budget pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    },
+    {
+        "OBJECT": 99999,
+        "DESCRIPTION": "Non Salary Budget Pool",
+        "ADDITIONAL INFORMATION": "For budget entries only"
+    }
+]
