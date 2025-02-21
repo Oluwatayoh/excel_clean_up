@@ -1,207 +1,207 @@
 [
-    {
-        "OBJECT": "41XXX",
-        "DESCRIPTION": "FEDERAL GOVERNMENT REVENUE",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with Federal Departments"
-    },
-    {
-        "OBJECT": "416XX",
-        "DESCRIPTION": "PROVINCIAL REVENUE - NEW BRUNSWICK",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with New Brunswick provincial departments and agencies including CFI matching grants."
-    },
-    {
-        "OBJECT": "417XX",
-        "DESCRIPTION": "MUNICIPAL REVENUE",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with NB Municipal departments"
-    },
-    {
-        "OBJECT": "418XX",
-        "DESCRIPTION": "OTHER PROVINCIAL REVENUE",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with, provinces other than New Brunswick"
-    },
-    {
-        "OBJECT": "419XX",
-        "DESCRIPTION": "FOREIGN GOVERNMENT REVENUE",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with US and other foreign governments."
-    },
-    {
-        "OBJECT": "42XXX",
-        "DESCRIPTION": "TUITION AND RELATED FEE REVENUE",
-        "ADDITIONAL INFORMATION": "Includes credit and non credit course tuition and other student related fees."
-    },
-    {
-        "OBJECT": "43XXX",
-        "DESCRIPTION": "NON GOVERNMENT GRANTS/DONATIONS",
-        "ADDITIONAL INFORMATION": "Grants from, and contracts with corporations, business enterprises, not for profits, foundations. Contributions that fall outside of donations receipted to 45200 also included here."
-    },
-    {
-        "OBJECT": "44XXX",
-        "DESCRIPTION": "SALE OF SERVICES & PRODUCTS",
-        "ADDITIONAL INFORMATION": "Ancillary related revenues; residence, youth camps, IBME, Conference Services"
-    },
-    {
-        "OBJECT": "45XXX",
-        "DESCRIPTION": "DONATION/INVESTMENT INCOME",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "46XXX",
-        "DESCRIPTION": "MISCELLANEOUS INCOME",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "47XXX",
-        "DESCRIPTION": "TRUST FUND TRANSFERS",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "49XXX",
-        "DESCRIPTION": "COST RECOVERIES",
-        "ADDITIONAL INFORMATION": "If the University is ultimately responsible for 100% of the cost but managed to offset the costs through partial or total recovery, then an external cost recovery object is appropriate. A contribution agreement may exist."
-    },
-    {
-        "OBJECT": "511XX",
-        "DESCRIPTION": "ACADEMIC SALARIES",
-        "ADDITIONAL INFORMATION": "Payments to full and part time staff who hold an academic rank and are engaged in instruction and research activities. E.g. Deans, professors, lecturers. Leaves such as administrative, academic or sabbatical also included."
-    },
-    {
-        "OBJECT": "512XX",
-        "DESCRIPTION": "ACADEMIC OTHER INSTRUCTION & RESEARCH (OI&R)",
-        "ADDITIONAL INFORMATION": "Payments to full and part time staff and non-staff members without academic rank but who are engaged in instruction and research activities. E.g. instructors, tutors, markers, lab, teaching, research, clinical assistants. Post doctoral fellows and others. Payments to graduate and undergraduate students undertaking instruction and research activities also included."
-    },
-    {
-        "OBJECT": "52XXX",
-        "DESCRIPTION": "OTHER SALARIES & WAGES",
-        "ADDITIONAL INFORMATION": "Payments to those not reported in 51xxx. Payments to full time and part time non instructional support staff, technicians, teaching and research lab technicians, clerical, secretarial, professional and managerial, janitorial, trades and maintenance. Also includes individuals who hold an academic rank, but are engaged in activities other than instruction and research such as President, Vice-Presidents, certain librarians and computing center personnel."
-    },
-    {
-        "OBJECT": "531XX",
-        "DESCRIPTION": "FRINGE BENEFITS",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "60XXX",
-        "DESCRIPTION": "CAPITALIZED FIXED ASSETS",
-        "ADDITIONAL INFORMATION": "For expenses that meet the definition and thresholds for capital assets."
-    },
-    {
-        "OBJECT": "61XXX",
-        "DESCRIPTION": "Travel",
-        "ADDITIONAL INFORMATION": "Travel includes expenditures on recruitment, travel, moving and relocation of staff, field trips and all other types of travel necessary for the operation of the university."
-    },
-    {
-        "OBJECT": "62XXX",
-        "DESCRIPTION": "LIBRARY",
-        "ADDITIONAL INFORMATION": "Includes the purchases of and access to books, periodicals, and other reference materials for the universities main, faculty or departmental libraries. Book binding also included."
-    },
-    {
-        "OBJECT": "630XX",
-        "DESCRIPTION": "OTHER OPERATIONAL EXPENSES",
-        "ADDITIONAL INFORMATION": "Hospitality, advertising, misc. licenses, bank charges"
-    },
-    {
-        "OBJECT": "631XX",
-        "DESCRIPTION": "MATERIALS & SUPPLIES",
-        "ADDITIONAL INFORMATION": "Include expenditures that would normally be consumed in the fiscal year. Small dollar equipment and computer software should be reported under 64xxx F&E."
-    },
-    {
-        "OBJECT": "633XX",
-        "DESCRIPTION": "Miscellaneous expense transactions",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "641XX",
-        "DESCRIPTION": "FURNITURE & EQUIPMENT PURCHASES UNDER $15,000",
-        "ADDITIONAL INFORMATION": "Furniture and Equipment purchases. If the cost exceeds $15,000 it may be classified as a capital asset and recorded in object codes beginning with 60xxx."
-    },
-    {
-        "OBJECT": "642XX",
-        "DESCRIPTION": "EQUIPMENT RENTAL & MAINTENANCE",
-        "ADDITIONAL INFORMATION": "Equipment rental, maintenance contracts, leases and site licenses"
-    },
-    {
-        "OBJECT": "65XXX",
-        "DESCRIPTION": "CANADIAN INTERNATIONAL DEVELOPMENT AGENCY",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "66XXX",
-        "DESCRIPTION": "TRUST & ENDOWMENT EXPENSES",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "71XXX",
-        "DESCRIPTION": "UTILITIES",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "714XX",
-        "DESCRIPTION": "COMMUNICATIONS",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "72XXX",
-        "DESCRIPTION": "RENOVATIONS & ALTERATIONS NON CAPITAL",
-        "ADDITIONAL INFORMATION": "Repairs and maintenance of the existing space of the institution. If the renovation exceeds $100k and extends the life of the building use 60240. For repairs and maintenance of detached equipment use 64210."
-    },
-    {
-        "OBJECT": "73XXX",
-        "DESCRIPTION": "SPACE RENTAL",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "74XXX",
-        "DESCRIPTION": "SCHOLARSHIPS/BURSARIES/PRIZES",
-        "ADDITIONAL INFORMATION": ""
-    },
-    {
-        "OBJECT": "75XXX",
-        "DESCRIPTION": "EXTERNALLY CONTRACTED SERVICES",
-        "ADDITIONAL INFORMATION": "Fees paid for specialized service contracted out to external agencies (includes both time and material) use 75xxx. For contracted services related to renovations and alterations use 72xxx, for professional fees use 76xxx, for equipment rental and maintenance use 64xxx, land & buildings use 72xxx."
-    },
-    {
-        "OBJECT": "76XXX",
-        "DESCRIPTION": "PROFESSIONAL FEES",
-        "ADDITIONAL INFORMATION": "Expenditures for professional fees normally performed by those requiring a professional license (auditors, lawyers, doctors, engineers, human resource, and other consultants). Services are commonly advisory based on their area of professional expertise."
-    },
-    {
-        "OBJECT": "77XXX",
-        "DESCRIPTION": "INSURANCE",
-        "ADDITIONAL INFORMATION": "Insurance costs of the university"
-    },
-    {
-        "OBJECT": "78XXX",
-        "DESCRIPTION": "PROPERTY TAX",
-        "ADDITIONAL INFORMATION": "Property tax of the university"
-    },
-    {
-        "OBJECT": "79XXX",
-        "DESCRIPTION": "MEMBERSHIPS",
-        "ADDITIONAL INFORMATION": "Membership costs of the university"
-    },
-    {
-        "OBJECT": "81XXX",
-        "DESCRIPTION": "COST OF SALES/COGS",
-        "ADDITIONAL INFORMATION": "Cost of goods sold is to be used where an inventory method of accounting is normally used."
-    },
-    {
-        "OBJECT": "82XXX",
-        "DESCRIPTION": "INTEREST & DEBT REPAYMENT",
-        "ADDITIONAL INFORMATION": "Interest and service debts of the institution, E.g. bank interest, mortgages."
-    },
-    {
-        "OBJECT": "91XXX",
-        "DESCRIPTION": "INTERNAL COST RECOVERIES",
-        "ADDITIONAL INFORMATION": "Centralized departments use internal cost recoveries to allocate costs across the institution. Both sides of the entry must use the same object."
-    },
-    {
-        "OBJECT": "93XXX",
-        "DESCRIPTION": "BUDGET CARRY FORWARD",
-        "ADDITIONAL INFORMATION": "Carry forwards/Internally restricted net assets"
-    },
-    {
-        "OBJECT": "94XXX",
-        "DESCRIPTION": "INTERFUND",
-        "ADDITIONAL INFORMATION": "Interfund transfers (94xxx) are the movement of cash/fund balance from one fund to another. If the transfer relates to transferring goods or services then use ICR (91xxx) or the exact revenue or expense object on both sides. Transfers are not permitted between all fund combinations. Transfers require 94xxx object for both sides of the entry."
-    }
+  {
+    "OBJECT": "41XXX",
+    "DESCRIPTION": "FEDERAL GOVERNMENT REVENUE",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with Federal Departments"
+  },
+  {
+    "OBJECT": "416XX",
+    "DESCRIPTION": "PROVINCIAL REVENUE - NEW BRUNSWICK",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with New Brunswick provincial departments and agencies including CFI matching grants."
+  },
+  {
+    "OBJECT": "417XX",
+    "DESCRIPTION": "MUNICIPAL REVENUE",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with NB Municipal departments"
+  },
+  {
+    "OBJECT": "418XX",
+    "DESCRIPTION": "OTHER PROVINCIAL REVENUE",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with, provinces other than New Brunswick"
+  },
+  {
+    "OBJECT": "419XX",
+    "DESCRIPTION": "FOREIGN GOVERNMENT REVENUE",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with US and other foreign governments."
+  },
+  {
+    "OBJECT": "42XXX",
+    "DESCRIPTION": "TUITION AND RELATED FEE REVENUE",
+    "ADDITIONAL INFORMATION": "Includes credit and non credit course tuition and other student related fees."
+  },
+  {
+    "OBJECT": "43XXX",
+    "DESCRIPTION": "NON GOVERNMENT GRANTS/DONATIONS",
+    "ADDITIONAL INFORMATION": "Grants from, and contracts with corporations, business enterprises, not for profits, foundations. Contributions that fall outside of donations receipted to 45200 also included here."
+  },
+  {
+    "OBJECT": "44XXX",
+    "DESCRIPTION": "SALE OF SERVICES & PRODUCTS",
+    "ADDITIONAL INFORMATION": "Ancillary related revenues; residence, youth camps, IBME, Conference Services"
+  },
+  {
+    "OBJECT": "45XXX",
+    "DESCRIPTION": "DONATION/INVESTMENT INCOME",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "46XXX",
+    "DESCRIPTION": "MISCELLANEOUS INCOME",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "47XXX",
+    "DESCRIPTION": "TRUST FUND TRANSFERS",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "49XXX",
+    "DESCRIPTION": "COST RECOVERIES",
+    "ADDITIONAL INFORMATION": "If the University is ultimately responsible for 100% of the cost but managed to offset the costs through partial or total recovery, then an external cost recovery object is appropriate. A contribution agreement may exist."
+  },
+  {
+    "OBJECT": "511XX",
+    "DESCRIPTION": "ACADEMIC SALARIES",
+    "ADDITIONAL INFORMATION": "Payments to full and part time staff who hold an academic rank and are engaged in instruction and research activities. E.g. Deans, professors, lecturers. Leaves such as administrative, academic or sabbatical also included."
+  },
+  {
+    "OBJECT": "512XX",
+    "DESCRIPTION": "ACADEMIC OTHER INSTRUCTION & RESEARCH (OI&R)",
+    "ADDITIONAL INFORMATION": "Payments to full and part time staff and non-staff members without academic rank but who are engaged in instruction and research activities. E.g. instructors, tutors, markers, lab, teaching, research, clinical assistants. Post doctoral fellows and others. Payments to graduate and undergraduate students undertaking instruction and research activities also included."
+  },
+  {
+    "OBJECT": "52XXX",
+    "DESCRIPTION": "OTHER SALARIES & WAGES",
+    "ADDITIONAL INFORMATION": "Payments to those not reported in 51xxx. Payments to full time and part time non instructional support staff, technicians, teaching and research lab technicians, clerical, secretarial, professional and managerial, janitorial, trades and maintenance. Also includes individuals who hold an academic rank, but are engaged in activities other than instruction and research such as President, Vice-Presidents, certain librarians and computing center personnel."
+  },
+  {
+    "OBJECT": "531XX",
+    "DESCRIPTION": "FRINGE BENEFITS",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "60XXX",
+    "DESCRIPTION": "CAPITALIZED FIXED ASSETS",
+    "ADDITIONAL INFORMATION": "For expenses that meet the definition and thresholds for capital assets."
+  },
+  {
+    "OBJECT": "61XXX",
+    "DESCRIPTION": "Travel",
+    "ADDITIONAL INFORMATION": "Travel includes expenditures on recruitment, travel, moving and relocation of staff, field trips and all other types of travel necessary for the operation of the university."
+  },
+  {
+    "OBJECT": "62XXX",
+    "DESCRIPTION": "LIBRARY",
+    "ADDITIONAL INFORMATION": "Includes the purchases of and access to books, periodicals, and other reference materials for the universities main, faculty or departmental libraries. Book binding also included."
+  },
+  {
+    "OBJECT": "630XX",
+    "DESCRIPTION": "OTHER OPERATIONAL EXPENSES",
+    "ADDITIONAL INFORMATION": "Hospitality, advertising, misc. licenses, bank charges"
+  },
+  {
+    "OBJECT": "631XX",
+    "DESCRIPTION": "MATERIALS & SUPPLIES",
+    "ADDITIONAL INFORMATION": "Include expenditures that would normally be consumed in the fiscal year. Small dollar equipment and computer software should be reported under 64xxx F&E."
+  },
+  {
+    "OBJECT": "633XX",
+    "DESCRIPTION": "Miscellaneous expense transactions",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "641XX",
+    "DESCRIPTION": "FURNITURE & EQUIPMENT PURCHASES UNDER $15,000",
+    "ADDITIONAL INFORMATION": "Furniture and Equipment purchases. If the cost exceeds $15,000 it may be classified as a capital asset and recorded in object codes beginning with 60xxx."
+  },
+  {
+    "OBJECT": "642XX",
+    "DESCRIPTION": "EQUIPMENT RENTAL & MAINTENANCE",
+    "ADDITIONAL INFORMATION": "Equipment rental, maintenance contracts, leases and site licenses"
+  },
+  {
+    "OBJECT": "65XXX",
+    "DESCRIPTION": "CANADIAN INTERNATIONAL DEVELOPMENT AGENCY",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "66XXX",
+    "DESCRIPTION": "TRUST & ENDOWMENT EXPENSES",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "71XXX",
+    "DESCRIPTION": "UTILITIES",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "714XX",
+    "DESCRIPTION": "COMMUNICATIONS",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "72XXX",
+    "DESCRIPTION": "RENOVATIONS & ALTERATIONS NON CAPITAL",
+    "ADDITIONAL INFORMATION": "Repairs and maintenance of the existing space of the institution. If the renovation exceeds $100k and extends the life of the building use 60240. For repairs and maintenance of detached equipment use 64210."
+  },
+  {
+    "OBJECT": "73XXX",
+    "DESCRIPTION": "SPACE RENTAL",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "74XXX",
+    "DESCRIPTION": "SCHOLARSHIPS/BURSARIES/PRIZES",
+    "ADDITIONAL INFORMATION": ""
+  },
+  {
+    "OBJECT": "75XXX",
+    "DESCRIPTION": "EXTERNALLY CONTRACTED SERVICES",
+    "ADDITIONAL INFORMATION": "Fees paid for specialized service contracted out to external agencies (includes both time and material) use 75xxx. For contracted services related to renovations and alterations use 72xxx, for professional fees use 76xxx, for equipment rental and maintenance use 64xxx, land & buildings use 72xxx."
+  },
+  {
+    "OBJECT": "76XXX",
+    "DESCRIPTION": "PROFESSIONAL FEES",
+    "ADDITIONAL INFORMATION": "Expenditures for professional fees normally performed by those requiring a professional license (auditors, lawyers, doctors, engineers, human resource, and other consultants). Services are commonly advisory based on their area of professional expertise."
+  },
+  {
+    "OBJECT": "77XXX",
+    "DESCRIPTION": "INSURANCE",
+    "ADDITIONAL INFORMATION": "Insurance costs of the university"
+  },
+  {
+    "OBJECT": "78XXX",
+    "DESCRIPTION": "PROPERTY TAX",
+    "ADDITIONAL INFORMATION": "Property tax of the university"
+  },
+  {
+    "OBJECT": "79XXX",
+    "DESCRIPTION": "MEMBERSHIPS",
+    "ADDITIONAL INFORMATION": "Membership costs of the university"
+  },
+  {
+    "OBJECT": "81XXX",
+    "DESCRIPTION": "COST OF SALES/COGS",
+    "ADDITIONAL INFORMATION": "Cost of goods sold is to be used where an inventory method of accounting is normally used."
+  },
+  {
+    "OBJECT": "82XXX",
+    "DESCRIPTION": "INTEREST & DEBT REPAYMENT",
+    "ADDITIONAL INFORMATION": "Interest and service debts of the institution, E.g. bank interest, mortgages."
+  },
+  {
+    "OBJECT": "91XXX",
+    "DESCRIPTION": "INTERNAL COST RECOVERIES",
+    "ADDITIONAL INFORMATION": "Centralized departments use internal cost recoveries to allocate costs across the institution. Both sides of the entry must use the same object."
+  },
+  {
+    "OBJECT": "93XXX",
+    "DESCRIPTION": "BUDGET CARRY FORWARD",
+    "ADDITIONAL INFORMATION": "Carry forwards/Internally restricted net assets"
+  },
+  {
+    "OBJECT": "94XXX",
+    "DESCRIPTION": "INTERFUND",
+    "ADDITIONAL INFORMATION": "Interfund transfers (94xxx) are the movement of cash/fund balance from one fund to another. If the transfer relates to transferring goods or services then use ICR (91xxx) or the exact revenue or expense object on both sides. Transfers are not permitted between all fund combinations. Transfers require 94xxx object for both sides of the entry."
+  }
 ]
